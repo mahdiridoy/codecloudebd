@@ -1,7 +1,22 @@
 #EXTM3U
-# Auto-updated : 2026-06-13 17:14 UTC
-# Total channels: 104
+# Auto-updated : 2026-06-13 19:10 UTC
+# Total channels: 106
 # Source        : https://stream.codecloud.bd/
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/yalaproo2/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/yalaproo2/hls/0/stream_960x540_2000k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/yalaproo2/hls/0/stream_1280x720_3300k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/yalaproo2/hls/0/stream_640x360_800k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://raw.githubusercontent.com/abodnm9uyre/syria-tv/refs/heads/main/fe2Afy.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
@@ -17,9 +32,6 @@ https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://cdn10.zohanayaan.com:1686/hls/ptvpk.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live4.asimxtech.online/tsports2/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://live1.asimxtech.online/tsports/index.m3u8
@@ -101,9 +113,6 @@ https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&amp;u=78be6644-0a65
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://raw.githubusercontent.com/abodnm9uyre/syria-tv/refs/heads/main/fe2Afy.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
@@ -305,9 +314,6 @@ https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEar
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tvsen6.aynaott.com/satv/index.m3u8?e=1779283757&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=336f19de5e4aacae753d7524d86d1a89
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-http://alvetv.com/moviebanglatv/8080/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
