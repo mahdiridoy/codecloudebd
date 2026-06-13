@@ -1,11 +1,11 @@
 """
-IPTV Stream Extractor — Playwright Edition (v4)
-================================================
-Visits stream.codecloud.bd, finds all .m3u8 URLs,
-and names each channel directly from the stream URL path.
+IPTV Stream Extractor — Playwright Edition
+==========================================
+Uses headless Chromium to render JavaScript SPAs and intercepts
+ALL network requests/responses to capture .m3u8 HLS stream URLs.
 
-  e.g.  https://cdn.example.com/live/bein-sports-hd-1/index.m3u8
-        → "Bein Sports HD 1"
+Target: https://stream.codecloud.bd/
+No environment variables needed — URL is hardcoded below.
 """
 
 import re
@@ -13,7 +13,7 @@ import sys
 import logging
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 
 from playwright.sync_api import sync_playwright, Page
 
@@ -27,111 +27,76 @@ log = logging.getLogger(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-BASE_URL    = "https://stream.codecloud.bd/"
+BASE_URL = "https://stream.codecloud.bd/"
+
+# Add individual channel watch pages here if you know them.
+# The script will ALSO auto-discover channels from the main page.
+MANUAL_CHANNELS = [
+    # {"name": "FIFA TV",   "url": "https://stream.codecloud.bd/watch/fifa-tv"},
+    # {"name": "beIN 1",    "url": "https://stream.codecloud.bd/watch/bein-1"},
+]
+
 OUTPUT_PATH = Path(__file__).parent.parent / "playlist" / "fifa_tv.m3u"
-M3U8_RE     = re.compile(r'https?://[^\s\'"<>]+\.m3u8(?:[^\s\'"<>]*)?', re.I)
-MAX_CHANNELS = 50
 
-# Generic path segments that don't carry channel name info
-SKIP_SEGMENTS = {
-    "live", "hls", "stream", "streams", "channel", "channels",
-    "watch", "index", "playlist", "video", "media", "cdn",
-    "content", "tv", "output", "chunks", "seg", "master", "mono",
-}
+# Regex to find m3u8 URLs in rendered HTML / JS
+M3U8_RE = re.compile(r'https?://[^\s\'"<>]+\.m3u8(?:[^\s\'"<>]*)?', re.I)
 
-# Words to keep fully uppercase in channel names
-UPPERCASE_WORDS = {"hd", "sd", "fhd", "uhd", "4k", "tv", "bd",
-                   "uk", "us", "eu", "hls", "ip", "iptv"}
+# Selectors to find channel card links on the listing page
+CHANNEL_LINK_SELECTORS = [
+    "a[href*='/watch/']",
+    "a[href*='/live/']",
+    "a[href*='/channel/']",
+    ".channel-card a",
+    ".channel-item a",
+    ".stream-card a",
+    "[class*='channel'] a",
+    "[class*='stream'] a",
+    "[class*='card'] a",
+]
 
-# ── Name from stream URL ───────────────────────────────────────────────────────
-
-def name_from_m3u8(url: str) -> str:
-    """
-    Derive a readable channel name purely from the .m3u8 stream URL.
-
-    Strategy:
-      1. Take all path segments, strip the filename (*.m3u8)
-      2. Drop generic/noise segments (live, hls, stream, index, …)
-      3. Pick the most descriptive remaining segment
-      4. Convert hyphens/underscores → spaces, title-case
-      5. Keep known abbreviations uppercase (HD, SD, TV, …)
-
-    Examples:
-      .../live/bein-sports-hd-1/index.m3u8    → "Bein Sports HD 1"
-      .../hls/star_sports_1/playlist.m3u8     → "Star Sports 1"
-      .../channels/fifa-tv/stream.m3u8        → "Fifa TV"
-      .../sony-ten-2.m3u8                     → "Sony Ten 2"
-    """
-    parsed = urlparse(url)
-    path   = parsed.path  # e.g.  /live/bein-sports-hd-1/index.m3u8
-
-    # Split path; strip .m3u8 but keep filename as name candidate
-    raw_parts = [p for p in path.split("/") if p]
-    parts = []
-    for seg in raw_parts:
-        if seg.lower().endswith(".m3u8"):
-            clean = re.sub(r'\.m3u8.*$', '', seg, flags=re.I)
-            if clean:
-                parts.append(clean)   # "sony-ten-2.m3u8" -> "sony-ten-2"
-        else:
-            parts.append(seg)
-
-    # Remove noise segments
-    meaningful = [p for p in parts if p.lower() not in SKIP_SEGMENTS]
-
-    # Fall back to all parts if nothing meaningful
-    slug = meaningful[-1] if meaningful else (parts[-1] if parts else "")
-
-    # Remove query/token noise after common delimiters
-    slug = re.split(r'[?&=]', slug)[0]
-
-    # Replace separators with space
-    slug = re.sub(r'[-_]+', ' ', slug).strip()
-
-    # Title-case each word, keep abbreviations uppercase
-    words = []
-    for word in slug.split():
-        words.append(word.upper() if word.lower() in UPPERCASE_WORDS
-                     else word.capitalize())
-
-    return " ".join(words) or "Channel"
-
-
-# ── Browser setup ─────────────────────────────────────────────────────────────
+# ── Browser helpers ───────────────────────────────────────────────────────────
 
 def make_context(playwright):
     browser = playwright.chromium.launch(
         headless=True,
-        args=["--no-sandbox", "--disable-setuid-sandbox",
-              "--disable-dev-shm-usage", "--disable-gpu"],
+        args=[
+            "--no-sandbox",
+            "--disable-setuid-sandbox",
+            "--disable-dev-shm-usage",
+            "--disable-gpu",
+        ],
     )
-    ctx = browser.new_context(
+    context = browser.new_context(
         user_agent=(
             "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/125.0.0.0 Safari/537.36"
         ),
         extra_http_headers={
-            "Referer":       BASE_URL,
-            "Origin":        BASE_URL.rstrip("/"),
+            "Referer":  BASE_URL,
+            "Origin":   BASE_URL.rstrip("/"),
             "Accept-Language": "en-US,en;q=0.9",
         },
     )
-    return browser, ctx
+    return browser, context
 
-
-# ── Stream interception ───────────────────────────────────────────────────────
 
 def collect_streams(page: Page, url: str, wait_ms: int = 20_000) -> list[str]:
-    """Navigate to url, intercept ALL network traffic, return .m3u8 URLs."""
+    """
+    Navigate to `url`, intercept every network request/response,
+    and return deduplicated .m3u8 URLs found in the network traffic
+    AND in the rendered HTML source.
+    """
     found: list[str] = []
 
     def on_request(req):
-        if ".m3u8" in req.url and req.url not in found:
+        if ".m3u8" in req.url:
+            log.info("  → [REQ ] %s", req.url)
             found.append(req.url)
 
     def on_response(resp):
-        if ".m3u8" in resp.url and resp.url not in found:
+        if ".m3u8" in resp.url:
+            log.info("  → [RESP] %s", resp.url)
             found.append(resp.url)
 
     page.on("request",  on_request)
@@ -140,47 +105,64 @@ def collect_streams(page: Page, url: str, wait_ms: int = 20_000) -> list[str]:
     try:
         page.goto(url, wait_until="networkidle", timeout=wait_ms)
     except Exception as exc:
-        log.warning("  ⚠ page load: %s", exc)
+        log.warning("  ⚠ goto timeout/error (continuing anyway): %s", exc)
 
+    # Extra wait — some players fire HLS requests 2–3 s after page load
     try:
-        page.wait_for_timeout(5000)   # extra wait for lazy player init
+        page.wait_for_timeout(4000)
     except Exception:
         pass
 
-    # Also scan fully-rendered DOM source
+    # Also scan the fully-rendered DOM for m3u8 URLs
     try:
-        for m in M3U8_RE.findall(page.content()):
+        html = page.content()
+        for m in M3U8_RE.findall(html):
             if m not in found:
+                log.info("  → [HTML] %s", m)
                 found.append(m)
     except Exception:
         pass
 
     page.remove_listener("request",  on_request)
     page.remove_listener("response", on_response)
-    return list(dict.fromkeys(found))
+    return list(dict.fromkeys(found))   # preserve order, remove dups
 
 
-# ── Channel link discovery ────────────────────────────────────────────────────
+def discover_channels(page: Page) -> list[dict]:
+    """
+    Scrape the main listing page for channel card links.
+    Returns a list of {"name": ..., "url": ...} dicts.
+    """
+    channels = []
+    seen_urls: set[str] = set()
 
-def discover_channels(page: Page) -> list[str]:
-    """Return all unique watch/live/channel URLs found on the listing page."""
-    urls: list[str] = []
-    seen: set[str]  = set()
-
-    for sel in ["a[href*='/watch/']", "a[href*='/live/']", "a[href*='/channel/']"]:
+    for sel in CHANNEL_LINK_SELECTORS:
         try:
             for el in page.query_selector_all(sel):
-                href = (el.get_attribute("href") or "").strip()
+                href = el.get_attribute("href") or ""
                 if not href:
                     continue
-                full = urljoin(BASE_URL, href)
-                if full not in seen:
-                    seen.add(full)
-                    urls.append(full)
+                full_url = urljoin(BASE_URL, href)
+                if full_url in seen_urls:
+                    continue
+                seen_urls.add(full_url)
+
+                # Best-effort name extraction
+                try:
+                    name = (
+                        el.inner_text().strip().split("\n")[0]
+                        or el.get_attribute("title")
+                        or el.get_attribute("aria-label")
+                        or "Channel"
+                    )
+                except Exception:
+                    name = "Channel"
+
+                channels.append({"name": name.strip() or "Channel", "url": full_url})
         except Exception:
             continue
 
-    return urls
+    return channels
 
 
 # ── M3U builder ───────────────────────────────────────────────────────────────
@@ -195,10 +177,14 @@ def build_m3u(entries: list[dict]) -> str:
         "",
     ]
     for e in entries:
-        stream = e["stream_url"]
-        name   = e["name"]
-        group  = "FWC 2026 Special"
-        lines.append(f'#EXTINF:-1 tvg-name="{name}" group-title="{group}",{name}')
+        stream = e.get("stream_url", "")
+        if not stream:
+            continue
+        name   = e.get("name",  "Channel")
+        logo   = e.get("logo",  "")
+        group  = e.get("group", "FWC 2026 Special")
+        logo_attr = ' tvg-logo="' + logo + '"' if logo else ""
+        lines.append(f'#EXTINF:-1{logo_attr} group-title="{group}",{name}')
         lines.append(stream)
         lines.append("")
     return "\n".join(lines)
@@ -212,46 +198,51 @@ def main():
     with sync_playwright() as p:
         browser, ctx = make_context(p)
 
-        # Step 1 — load listing page and discover channel links
-        log.info("🌐 Loading: %s", BASE_URL)
+        # ── Step 1: Load main page ────────────────────────────────────────────
+        log.info("🌐 Loading main page: %s", BASE_URL)
         main_page = ctx.new_page()
-        try:
-            main_page.goto(BASE_URL, wait_until="networkidle", timeout=30_000)
-            main_page.wait_for_timeout(4000)
-        except Exception as exc:
-            log.warning("Main page: %s", exc)
+        main_streams = collect_streams(main_page, BASE_URL, wait_ms=30_000)
 
-        channel_urls = discover_channels(main_page)
+        if main_streams:
+            log.info("✅ Found %d stream(s) on main page", len(main_streams))
+            for s in main_streams:
+                results.append({"name": "CodeCloudBD Live", "group": "BD TV", "stream_url": s})
+
+        # ── Step 2: Discover channel links ────────────────────────────────────
+        auto_channels = discover_channels(main_page)
+        log.info("🔎 Auto-discovered %d channel link(s)", len(auto_channels))
         main_page.close()
-        log.info("🔎 Found %d channel link(s)", len(channel_urls))
 
-        # If no links found, try the base URL directly
-        if not channel_urls:
-            channel_urls = [BASE_URL]
+        # Merge manual + auto channels (deduplicate by URL)
+        all_channels: list[dict] = list(MANUAL_CHANNELS)
+        seen_ch_urls  = {c["url"] for c in all_channels}
+        for ch in auto_channels:
+            if ch["url"] not in seen_ch_urls:
+                all_channels.append(ch)
+                seen_ch_urls.add(ch["url"])
 
-        # Step 2 — visit each channel page, capture stream, name from URL
-        for ch_url in channel_urls[:MAX_CHANNELS]:
-            log.info("📺 %s", ch_url)
+        # ── Step 3: Visit each channel page ───────────────────────────────────
+        for ch in all_channels[:30]:   # cap at 30 channels per run
+            log.info("📺 [%s] → %s", ch["name"], ch["url"])
             pg = ctx.new_page()
-            streams = collect_streams(pg, ch_url, wait_ms=22_000)
+            streams = collect_streams(pg, ch["url"], wait_ms=20_000)
             pg.close()
 
             if streams:
-                stream_url = streams[0]
-                name       = name_from_m3u8(stream_url)
-                log.info("  ✅ %-30s  %s", name, stream_url)
-                results.append({"name": name, "stream_url": stream_url})
+                log.info("   ✅ stream: %s", streams[0])
+                results.append({**ch, "stream_url": streams[0]})
             else:
-                log.warning("  ⚠ no stream at %s", ch_url)
+                log.warning("   ⚠ no stream found")
 
         browser.close()
 
-    # Deduplicate by stream URL
-    seen: set[str] = set()
-    unique = []
+    # ── Deduplicate results by stream URL ─────────────────────────────────────
+    seen_streams: set[str] = set()
+    unique: list[dict] = []
     for r in results:
-        if r["stream_url"] not in seen:
-            seen.add(r["stream_url"])
+        s = r.get("stream_url", "")
+        if s and s not in seen_streams:
+            seen_streams.add(s)
             unique.append(r)
 
     if not unique:
@@ -260,15 +251,7 @@ def main():
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUTPUT_PATH.write_text(build_m3u(unique), encoding="utf-8")
-
-    # Summary table
-    log.info("\n%s", "─" * 60)
-    log.info("%-28s  %s", "CHANNEL NAME", "STREAM URL")
-    log.info("%s", "─" * 60)
-    for r in unique:
-        log.info("%-28s  %.50s", r["name"], r["stream_url"])
-    log.info("%s", "─" * 60)
-    log.info("✅ %d channel(s) saved → %s", len(unique), OUTPUT_PATH)
+    log.info("✅ Playlist saved → %s  (%d channel(s))", OUTPUT_PATH, len(unique))
 
 
 if __name__ == "__main__":
