@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated : 2026-06-13 16:10 UTC
+# Auto-updated : 2026-06-13 17:14 UTC
 # Total channels: 104
 # Source        : https://stream.codecloud.bd/
 
@@ -103,7 +103,7 @@ https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&amp;u=78be6644-0a65
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://tvsen6.aynaott.com/btvhd/index.m3u8
+https://raw.githubusercontent.com/abodnm9uyre/syria-tv/refs/heads/main/fe2Afy.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
