@@ -182,7 +182,7 @@ def build_m3u(entries: list[dict]) -> str:
             continue
         name   = e.get("name",  "Channel")
         logo   = e.get("logo",  "")
-        group  = e.get("group", "BD TV")
+        group  = e.get("group", "FWC 2026 Special")
         logo_attr = ' tvg-logo="' + logo + '"' if logo else ""
         lines.append(f'#EXTINF:-1{logo_attr} group-title="{group}",{name}')
         lines.append(stream)
@@ -256,4 +256,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
