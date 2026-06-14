@@ -1,25 +1,28 @@
 #EXTM3U
-# Auto-updated : 2026-06-14 15:44 UTC
-# Total channels: 102
-# Source        : https://blocinoapi.com/watch/caze-tv-brasil-fifa-world-cup-12305
+# Auto-updated : 2026-06-14 19:56 UTC
+# Total channels: 103
+# Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+https://live.kooran12.cfd/tist1/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+http://84.17.50.102/fox/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.kooran14.cfd/roooka3/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://yalapro6.s3.us-east-1.amazonaws.com/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
