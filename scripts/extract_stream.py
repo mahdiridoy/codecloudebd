@@ -4,7 +4,7 @@ IPTV Stream Extractor — Playwright Edition
 Uses headless Chromium to render JavaScript SPAs and intercepts
 ALL network requests/responses to capture .m3u8 HLS stream URLs.
 
-Target: https://blocinoapi.com/watch/caze-tv-brasil-fifa-world-cup-12305
+Target: https://blocinoapi.com/watch/japan-vs-netherlands-12446
 No environment variables needed — URL is hardcoded below.
 """
 
@@ -27,7 +27,7 @@ log = logging.getLogger(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-BASE_URL = "https://blocinoapi.com/watch/caze-tv-brasil-fifa-world-cup-12305"
+BASE_URL = "https://blocinoapi.com/watch/japan-vs-netherlands-12446"
 
 # Add individual channel watch pages here if you know them.
 # The script will ALSO auto-discover channels from the main page.
