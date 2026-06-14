@@ -4,7 +4,7 @@ IPTV Stream Extractor — Playwright Edition
 Uses headless Chromium to render JavaScript SPAs and intercepts
 ALL network requests/responses to capture .m3u8 HLS stream URLs.
 
-Target: https://stream.codecloud.bd/
+Target: https://blocinoapi.com/
 No environment variables needed — URL is hardcoded below.
 """
 
@@ -27,7 +27,7 @@ log = logging.getLogger(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-BASE_URL = "https://stream.codecloud.bd/"
+BASE_URL = "https://blocinoapi.com/"
 
 # Add individual channel watch pages here if you know them.
 # The script will ALSO auto-discover channels from the main page.
@@ -182,7 +182,7 @@ def build_m3u(entries: list[dict]) -> str:
             continue
         name   = e.get("name",  "Channel")
         logo   = e.get("logo",  "")
-        group  = e.get("group", "FWC 2026 Special")
+        group  = e.get("group", "BD TV")
         logo_attr = ' tvg-logo="' + logo + '"' if logo else ""
         lines.append(f'#EXTINF:-1{logo_attr} group-title="{group}",{name}')
         lines.append(stream)
@@ -256,3 +256,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
