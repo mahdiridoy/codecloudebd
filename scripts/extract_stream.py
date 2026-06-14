@@ -27,7 +27,7 @@ log = logging.getLogger(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-BASE_URL = "https://blocinoapi.com/watch/japan-vs-netherlands-12446"
+BASE_URL = "https://blocinoapi.com"
 
 # Add individual channel watch pages here if you know them.
 # The script will ALSO auto-discover channels from the main page.
