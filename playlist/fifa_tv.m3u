@@ -1,19 +1,22 @@
 #EXTM3U
-# Auto-updated : 2026-06-15 15:59 UTC
-# Total channels: 102
+# Auto-updated : 2026-06-15 19:05 UTC
+# Total channels: 103
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream_640x360_800k.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_640x360_800k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdn.h110/hls/0/stream_1280x720_3300k.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_960x540_2000k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://12cup-live.s3.eu-north-1.amazonaws.com/en/en_144p/index.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_1280x720_3300k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://sportzfylive.com/stream/hd1-belgium-x-egypt-2026-06-15/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
