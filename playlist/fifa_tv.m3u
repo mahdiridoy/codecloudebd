@@ -1,6 +1,6 @@
 #EXTM3U
-# Auto-updated : 2026-06-15 19:05 UTC
-# Total channels: 103
+# Auto-updated : 2026-06-15 22:20 UTC
+# Total channels: 101
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
@@ -10,28 +10,22 @@ https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream.m3u8
 https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_640x360_800k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_960x540_2000k.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://s3.us-east-2.amazonaws.com/cdnh111/hls/0/stream_1280x720_3300k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd1-belgium-x-egypt-2026-06-15/manifest.m3u8
+https://sportzfylive.com/stream/hd1-saudi-arabia-x-uruguay-2026-06-15/manifest.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://sportzfylive.com/stream/hd2-saudi-arabia-x-uruguay-2026-06-15/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD-video=2137600.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 http://190.108.83.69:8000/play/a05w/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
