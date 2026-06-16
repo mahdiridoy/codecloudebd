@@ -1,13 +1,13 @@
 #EXTM3U
-# Auto-updated : 2026-06-16 07:29 UTC
+# Auto-updated : 2026-06-16 12:55 UTC
 # Total channels: 98
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://sportzfylive.com/stream/hd11-france-x-senegal-2026-06-16/manifest.m3u8
@@ -16,10 +16,10 @@ https://sportzfylive.com/stream/hd11-france-x-senegal-2026-06-16/manifest.m3u8
 https://sportzfylive.com/stream/hd1-france-x-senegal-2026-06-16/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh112/hls/0/stream_1280x720_3300k.m3u8
+https://s2.bufaloweb.com/bufalo9/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
