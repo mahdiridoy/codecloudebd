@@ -1,22 +1,13 @@
 #EXTM3U
-# Auto-updated : 2026-06-16 18:05 UTC
-# Total channels: 100
+# Auto-updated : 2026-06-16 21:43 UTC
+# Total channels: 97
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
+https://run.livooosato.shop/hls/test.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd11-france-x-senegal-2026-06-16/manifest.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd1-france-x-senegal-2026-06-16/manifest.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s2.bufaloweb.com/bufalo9/index.m3u8
+https://live.kooran25.cfd/yooese1/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
