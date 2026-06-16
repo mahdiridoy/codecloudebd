@@ -1,10 +1,7 @@
 #EXTM3U
-# Auto-updated : 2026-06-16 12:55 UTC
-# Total channels: 98
+# Auto-updated : 2026-06-16 18:05 UTC
+# Total channels: 100
 # Source        : https://blocinoapi.com
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
@@ -13,10 +10,16 @@ https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-
 https://sportzfylive.com/stream/hd11-france-x-senegal-2026-06-16/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/playlist.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://sportzfylive.com/stream/hd1-france-x-senegal-2026-06-16/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://s2.bufaloweb.com/bufalo9/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
@@ -290,6 +293,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://bdsojib.pro.bd/sojib.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
