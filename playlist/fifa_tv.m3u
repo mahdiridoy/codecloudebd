@@ -1,28 +1,25 @@
 #EXTM3U
-# Auto-updated : 2026-06-16 01:42 UTC
-# Total channels: 100
+# Auto-updated : 2026-06-16 07:29 UTC
+# Total channels: 98
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.kooran23.cfd/tist1/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd5-iraq-x-norway-2026-06-16/manifest.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://2.456745.dpdns.org/hls/1/stream.m3u8
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-http://190.108.83.69:8000/play/a05w/index.m3u8
+https://sportzfylive.com/stream/hd11-france-x-senegal-2026-06-16/manifest.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://sportzfylive.com/stream/hd1-france-x-senegal-2026-06-16/manifest.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/cdnh112/hls/0/stream_1280x720_3300k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs1.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
@@ -293,9 +290,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a11.kora-plus.app/watch/alwan1.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
