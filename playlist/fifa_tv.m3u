@@ -1,22 +1,16 @@
 #EXTM3U
-# Auto-updated : 2026-06-17 04:13 UTC
-# Total channels: 98
+# Auto-updated : 2026-06-17 09:51 UTC
+# Total channels: 96
 # Source        : https://blocinoapi.com
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh114/hls/0/stream.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd1-argentina-x-algeria-2026-06-16/manifest.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd11-argentina-x-algeria-2026-06-16/manifest.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
+https://sportzfylive.com/stream/hd1-portugal-x-congo-dr-2026-06-17/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
