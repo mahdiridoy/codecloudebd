@@ -1,16 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-06-16 23:24 UTC
+# Auto-updated : 2026-06-17 04:13 UTC
 # Total channels: 98
 # Source        : https://blocinoapi.com
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.kooran25.cfd/yooese1/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh113/hls/0/stream_960x540_2000k.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh114/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://sportzfylive.com/stream/hd1-argentina-x-algeria-2026-06-16/manifest.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://sportzfylive.com/stream/hd11-argentina-x-algeria-2026-06-16/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
@@ -287,9 +290,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://bdsojib.pro.bd/sojib.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
