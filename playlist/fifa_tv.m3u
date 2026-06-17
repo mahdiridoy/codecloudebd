@@ -1,22 +1,22 @@
 #EXTM3U
-# Auto-updated : 2026-06-17 16:56 UTC
+# Auto-updated : 2026-06-17 19:27 UTC
 # Total channels: 99
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.kooran53.cfd/goolato3.m3u8
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=526981023402a178bb1d3dcdbe0d5a6a&txTime=6a332435
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=526981023402a178bb1d3dcdbe0d5a6a&amp;txTime=6a332435
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://live.kooran53.cfd/goolato3_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.kooran53.cfd/goolato3_720/index.m3u8
+https://live.kooran53.cfd/goolato3.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://uyhdsgyu.yallashooott.online/hls/ch1.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.kooran51.cfd/yorrr1/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
