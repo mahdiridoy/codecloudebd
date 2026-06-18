@@ -1,16 +1,22 @@
 #EXTM3U
-# Auto-updated : 2026-06-18 14:11 UTC
-# Total channels: 97
+# Auto-updated : 2026-06-18 18:04 UTC
+# Total channels: 99
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=19f197222871b2272f4929daf92fd5a4&txTime=6a3468d1
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=19f197222871b2272f4929daf92fd5a4&amp;txTime=6a3468d1
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-1.amazonaws.com/cdnh120/hls/0/stream_640x360_800k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://lb8.strmd.st/secure/VXpTohKLOIuWHtuyDyeIbmLQtMncDJQn/rtmp/stream/acAsiKEuA11vh2g1LaUHBDeW95GuaqN1gQJJsR52VqIpckDb97eTCV-FcMsxeUG8Z7uSU3c07g/1/low/mono.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/e56cb5b5-ce32-4d04-b56f-a9eecf7dfece/0.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/e56cb5b5-ce32-4d04-b56f-a9eecf7dfece/2.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8
