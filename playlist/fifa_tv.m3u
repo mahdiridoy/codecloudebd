@@ -1,16 +1,13 @@
 #EXTM3U
-# Auto-updated : 2026-06-18 20:37 UTC
-# Total channels: 98
+# Auto-updated : 2026-06-18 22:57 UTC
+# Total channels: 97
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781810721-0-0-08f0c415825e453efe72980f09d0134b
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh122/hls/0/stream_1280x720_3300k.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh123/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
