@@ -1,19 +1,25 @@
 #EXTM3U
-# Auto-updated : 2026-06-19 18:05 UTC
-# Total channels: 89
+# Auto-updated : 2026-06-19 20:26 UTC
+# Total channels: 91
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/cdnh124/hls/0/stream.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/cdnh124/hls/0/stream_640x360_800k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/cdnh124/hls/0/stream_1280x720_3300k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-a40e3114957b417a9f9976478cc763ed.r2.dev/en/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-a40e3114957b417a9f9976478cc763ed.r2.dev/sp/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd1-usa-x-australia-2026-06-19/manifest.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781810721-0-0-08f0c415825e453efe72980f09d0134b
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
