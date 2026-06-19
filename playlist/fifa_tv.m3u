@@ -1,13 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-06-18 22:57 UTC
-# Total channels: 97
+# Auto-updated : 2026-06-19 01:46 UTC
+# Total channels: 100
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781810721-0-0-08f0c415825e453efe72980f09d0134b
+https://s3.us-east-2.amazonaws.com/cdnh123/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh123/hls/0/stream.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh123/hls/0/stream_640x360_800k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/cdnh123/hls/0/stream_1280x720_3300k.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781810721-0-0-08f0c415825e453efe72980f09d0134b
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
@@ -287,6 +293,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
