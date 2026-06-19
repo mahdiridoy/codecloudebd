@@ -1,6 +1,6 @@
 #EXTM3U
-# Auto-updated : 2026-06-19 16:00 UTC
-# Total channels: 87
+# Auto-updated : 2026-06-19 18:05 UTC
+# Total channels: 89
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
@@ -8,6 +8,12 @@ https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://sportzfylive.com/stream/hd1-usa-x-australia-2026-06-19/manifest.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781810721-0-0-08f0c415825e453efe72980f09d0134b
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://drmteste-hamivideo.cdn.hinet.net/live/pool/ll-test-hevc/hls-cl-fhd6m-4s-ma/index.m3u8?0
