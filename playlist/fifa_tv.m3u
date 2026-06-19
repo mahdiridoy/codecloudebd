@@ -1,16 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-06-19 20:26 UTC
-# Total channels: 91
+# Auto-updated : 2026-06-19 22:04 UTC
+# Total channels: 92
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh124/hls/0/stream.m3u8
+https://eva.sewaf.online/wiiikia2.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh124/hls/0/stream_640x360_800k.m3u8
+https://eva.sewaf.online/wiiikia2_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh124/hls/0/stream_1280x720_3300k.m3u8
+https://eva.sewaf.online/wiiikia2_720/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-2.amazonaws.com/cdnh125/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pub-a40e3114957b417a9f9976478cc763ed.r2.dev/en/index.m3u8
