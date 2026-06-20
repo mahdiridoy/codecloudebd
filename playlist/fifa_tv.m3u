@@ -1,6 +1,6 @@
 #EXTM3U
-# Auto-updated : 2026-06-20 20:16 UTC
-# Total channels: 90
+# Auto-updated : 2026-06-20 22:08 UTC
+# Total channels: 92
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
@@ -14,6 +14,12 @@ https://as.roomtu.store/rook1.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://a5.kora-plus.app/live/tv5.m3u8?token=-p3KzDYhIHsWzpiKq5Ri3M1BQ1I&amp;exp=1781976226
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://gffgfhhf.fgg-4le.pages.dev/1781995138/2dc2724ee30a4067aff4baa711ed33da/KBtSC6exZGkbGDKfxUnBBNZ-wd80Ee5ljq34e7DSmpI/fox-usa.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://gffgfhhf.fgg-4le.pages.dev/1781995482/5efb31f1513745d3a1917d830f390f9c/0SGHveAJ-x1OGOHifRBXuoUQ8O6udzp-PCC789gs0OM/tsn-4k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
