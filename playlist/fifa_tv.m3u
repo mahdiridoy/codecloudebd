@@ -1,22 +1,16 @@
 #EXTM3U
-# Auto-updated : 2026-06-20 14:05 UTC
-# Total channels: 91
+# Auto-updated : 2026-06-20 16:19 UTC
+# Total channels: 89
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1781918181-0-0-efb70210e03c72ff93bef1646194bdba
+https://a8.kora-plus.app/live/max1.m3u8?token=ws7XDFXGiRFfZtj8qMZHdQZYhI8&exp=1781973357
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://eva.sewaf.online/wiiikia2.m3u8
+https://a8.kora-plus.app/live/max1.m3u8?token=ws7XDFXGiRFfZtj8qMZHdQZYhI8&amp;exp=1781973357
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pub-a40e3114957b417a9f9976478cc763ed.r2.dev/en/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pub-a40e3114957b417a9f9976478cc763ed.r2.dev/sp/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+https://pull.niur.live/live/stream-9912117_lsd.m3u8?txSecret=7a7ee6a1ec49259cc5c7468117dda252&amp;txTime=6a370cfd
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
