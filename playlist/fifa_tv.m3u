@@ -1,28 +1,22 @@
 #EXTM3U
-# Auto-updated : 2026-06-21 21:15 UTC
-# Total channels: 93
+# Auto-updated : 2026-06-21 23:14 UTC
+# Total channels: 91
 # Source        : https://blocinoapi.com
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://an.mancher.xyz/moodes1.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://an.mancher.xyz/moodes1_360/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://an.mancher.xyz/moodes1_720/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://an.mancher.xyz/moodes1_480/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live05.msdht.app/live/24561735.m3u8
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b608000_sleng.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a13.kora-plus.app/live/tv5.m3u8?token=F8PtcEONSNrVqD99jBxpwbGeURI&amp;exp=1782068021
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/en/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://ex.kooran99.cfd/uoorz2_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
