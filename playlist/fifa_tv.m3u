@@ -1,28 +1,49 @@
 #EXTM3U
-# Auto-updated : 2026-06-21 15:53 UTC
-# Total channels: 90
+# Auto-updated : 2026-06-21 17:40 UTC
+# Total channels: 96
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+https://an.mancher.xyz/moodes1.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb543a1a6570668884cb3c62cef342a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7457db80148b61299bce8c37683f03409a5e5afba358b1ebe559438d3ef7b61955937b4dee9f43c8821da6d1d25bc85e8f70f8119d90f0d8d2158687f333937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe50c00bf84fcf6929d12e7e24e601b986e422f91423205b9ec39579d247f6a7fbd4707dd6d51c7144c86ad718e659faf2e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db778b7ca723cc7764ab6343bfa4a3ccf17afef62a6f1a9906c5182d7c946f078fcf55b82846587597c0852fda2561c2f2a5adfe161013503b366ecc1c5ec72494dacc0c4f0c45c2f147b70760998e9f37f8b84a27d4ef6a0e4d7e0c57699ea5fdcdfd8922e2d1f253cbd5372ed/43/640x360_1561904/index.m3u8
+https://an.mancher.xyz/moodes1_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb543a1a6570668884cb3c62cef342a9f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7457db80148b61299bce8c37683f03409a5e5afba358b1ebe559438d3ef7b61955937b4dee9f43c8821da6d1d25bc85e8f70f8119d90f0d8d2158687f333937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe50c00bf84fcf6929d12e7e24e601b986e422f91423205b9ec39579d247f6a7fbd4707dd6d51c7144c86ad718e659faf2e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db778b7ca723cc7764ab6343bfa4a3ccf17afef62a6f1a9906c5182d7c946f078fcf55b82846587597c0852fda2561c2f2a5adfe161013503b366ecc1c5ec72494dacc0c4f0c45c2f147b70760998e9f37f8b84a27d4ef6a0e4d7e0c57699ea5fdcdfd8922e2d1f253cbd5372ed/43/1920x1080_5162480/index.m3u8
+https://an.mancher.xyz/moodes1_480/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+https://an.mancher.xyz/moodes1_720/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-1.amazonaws.com/cdnc102/hls/0/stream.m3u8
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782060861-0-0-4ac7299b5c1479f0c13217c638a75b0b
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a10.kora-plus.app/live/max1.m3u8?token=cPGh614OJxshjpSez1t8vxfxqno&amp;exp=1782061443
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a7.kora-plus.app/live/bbc1.m3u8?token=OjiApDJxnorErq3JavkKclROsBo&amp;exp=1782061164
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a7.kora-plus.app/live/max1.m3u8?token=LX4u2Quumj-S8Dyo47MYhnMRRRI&amp;exp=1782060742
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://sportzfylive.com/stream/hd2-spain-x-saudi-arabia-2026-06-21/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://sportzfylive.com/stream/hd11-spain-x-saudi-arabia-2026-06-21/manifest.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s3.us-east-1.amazonaws.com/cdnc102/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
@@ -263,9 +284,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001782015500-0-0-5ff3e84739d9ab93277d60cfd49f9909
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
