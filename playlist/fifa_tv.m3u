@@ -1,22 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-06-21 00:07 UTC
-# Total channels: 91
+# Auto-updated : 2026-06-21 06:03 UTC
+# Total channels: 89
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://line.maricia.website/yooorp2_720/index.m3u8
+https://s3.us-east-1.amazonaws.com/cdnc102/hls/0/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-1.amazonaws.com/cdnb102/hls/0/stream_640x360_800k.m3u8
+https://s3.us-east-1.amazonaws.com/cdnc102/hls/0/stream_640x360_800k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://gffgfhhf.fgg-4le.pages.dev/1781995138/2dc2724ee30a4067aff4baa711ed33da/KBtSC6exZGkbGDKfxUnBBNZ-wd80Ee5ljq34e7DSmpI/fox-usa.m3u8
+https://s3.us-east-1.amazonaws.com/cdnc102/hls/0/stream_1280x720_3300k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a8.kora-plus.app/live/max2.m3u8?token=dx8tLwahRlNTXk7k244uHj5Em8c&amp;exp=1781995953
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://gffgfhhf.fgg-4le.pages.dev/1781995482/5efb31f1513745d3a1917d830f390f9c/0SGHveAJ-x1OGOHifRBXuoUQ8O6udzp-PCC789gs0OM/tsn-4k.m3u8
+https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
@@ -265,10 +262,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+https://live3.procdnlive.com/livecdn/channel22.m3u8?auth_key=3000001782015500-0-0-5ff3e84739d9ab93277d60cfd49f9909
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
