@@ -1,22 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-06-20 22:08 UTC
-# Total channels: 92
+# Auto-updated : 2026-06-21 00:07 UTC
+# Total channels: 91
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1781977701-0-0-bc87ee8bad9a0a9fff766eb3e97e0a39
+https://line.maricia.website/yooorp2_720/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://s3.us-east-1.amazonaws.com/cdnb102/hls/0/stream_640x360_800k.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://as.roomtu.store/rook1.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a5.kora-plus.app/live/tv5.m3u8?token=-p3KzDYhIHsWzpiKq5Ri3M1BQ1I&amp;exp=1781976226
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://gffgfhhf.fgg-4le.pages.dev/1781995138/2dc2724ee30a4067aff4baa711ed33da/KBtSC6exZGkbGDKfxUnBBNZ-wd80Ee5ljq34e7DSmpI/fox-usa.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a8.kora-plus.app/live/max2.m3u8?token=dx8tLwahRlNTXk7k244uHj5Em8c&amp;exp=1781995953
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://gffgfhhf.fgg-4le.pages.dev/1781995482/5efb31f1513745d3a1917d830f390f9c/0SGHveAJ-x1OGOHifRBXuoUQ8O6udzp-PCC789gs0OM/tsn-4k.m3u8
@@ -268,7 +265,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist540p.m3u8
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
