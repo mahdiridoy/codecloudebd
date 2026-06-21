@@ -1,6 +1,6 @@
 #EXTM3U
-# Auto-updated : 2026-06-21 17:40 UTC
-# Total channels: 96
+# Auto-updated : 2026-06-21 19:43 UTC
+# Total channels: 93
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
@@ -10,31 +10,19 @@ https://an.mancher.xyz/moodes1.m3u8
 https://an.mancher.xyz/moodes1_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://an.mancher.xyz/moodes1_480/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://an.mancher.xyz/moodes1_720/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782060861-0-0-4ac7299b5c1479f0c13217c638a75b0b
+https://an.mancher.xyz/moodes1_480/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a10.kora-plus.app/live/max1.m3u8?token=cPGh614OJxshjpSez1t8vxfxqno&amp;exp=1782061443
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a7.kora-plus.app/live/bbc1.m3u8?token=OjiApDJxnorErq3JavkKclROsBo&amp;exp=1782061164
+https://live05.msdht.app/live/24561735.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a7.kora-plus.app/live/max1.m3u8?token=LX4u2Quumj-S8Dyo47MYhnMRRRI&amp;exp=1782060742
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd2-spain-x-saudi-arabia-2026-06-21/manifest.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd11-spain-x-saudi-arabia-2026-06-21/manifest.m3u8
+https://a13.kora-plus.app/live/tv5.m3u8?token=F8PtcEONSNrVqD99jBxpwbGeURI&amp;exp=1782068021
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
@@ -284,6 +272,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a7.kora-plus.app/live/max1.m3u8?token=LX4u2Quumj-S8Dyo47MYhnMRRRI&amp;exp=1782060742
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
