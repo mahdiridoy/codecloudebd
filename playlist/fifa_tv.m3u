@@ -1,31 +1,37 @@
 #EXTM3U
-# Auto-updated : 2026-06-22 15:52 UTC
-# Total channels: 93
+# Auto-updated : 2026-06-22 19:30 UTC
+# Total channels: 95
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+https://1.bb1.dpdns.org/hls/1/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb543d1d7e6c648f93d43d65d9ef43a8f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7457db80148b61299bce8c37683f03409a5e5afba358b1ebe70f4d8d3da0b54955937a40e59f43c8821da6d2810f985ed023f61ccf93f289d5418a81f333937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe50c00bf84fcf6929d12e7e24e601b986e422f91423205b9ec39579d247f6a7fbd4707dd6d51c7144c86ad718e659faf2e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db778b7ca723cc7764ab6343bfa4a3ccf17afef62a6f1a9906c5182d7c946f078fcf55b82846587597c0852fda2561c2f2a5adfe161013503b366ecc1c5ec72494dacc0c4f0c45c2f147b70760998e9f37f8b84a3784e41213297b4f1a171587aadf3acc3cae85b574963d192da9f/137/640x360_1561904/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb543d1d7e6c648f93d43d65d9ef43a8f9591fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac7457db80148b61299bce8c37683f03409a5e5afba358b1ebe70f4d8d3da0b54955937a40e59f43c8821da6d2810f985ed023f61ccf93f289d5418a81f333937f8ab5a2c54007fbb54ad1a468b8d38e6c3ddc423c470a50f5d1eb942c12a7378ed8659db1d24bf001da8165a06d32a9099b4efe50c00bf84fcf6929d12e7e24e601b986e422f91423205b9ec39579d247f6a7fbd4707dd6d51c7144c86ad718e659faf2e61b9eca199ab76cd0fa395d70f7984b9f92a590af9eb90acd758497afd80a4b40355059c645f4ce249b08cd68a4cb24245e664db9d50097d1970d662207ada86af93f57f9d78288da4e1ccf631055a120fa531763c131232db778b7ca723cc7764ab6343bfa4a3ccf17afef62a6f1a9906c5182d7c946f078fcf55b82846587597c0852fda2561c2f2a5adfe161013503b366ecc1c5ec72494dacc0c4f0c45c2f147b70760998e9f37f8b84a3784e41213297b4f1a171587aadf3acc3cae85b574963d192da9f/137/1920x1080_5162480/index.m3u8
+https://ed.omener.xyz/qoozn2_720/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=d13a1d887b251fe2d0ff9ae089083f78&amp;txTime=6a39bbb6
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd11-argentina-x-austria-2026-06-22/manifest.m3u8
+https://s3.us-east-2.amazonaws.com/cdnh121/live/stream/720p/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://s1.yalla5live.com/live/s1.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/en/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://sportzfylive.com/stream/hd1-argentina-x-austria-2026-06-22/manifest.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pub-f2987c4fc9d2450191dfee2ee8dc9f51.r2.dev/en/index.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
