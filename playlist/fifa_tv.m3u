@@ -1,28 +1,25 @@
 #EXTM3U
-# Auto-updated : 2026-06-23 00:07 UTC
-# Total channels: 93
+# Auto-updated : 2026-06-23 05:02 UTC
+# Total channels: 92
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1.bb1.dpdns.org/hls/1/stream.m3u8
+https://ed.omener.xyz/qoozn2.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://ed.omener.xyz/qoozn2_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://ed.omener.xyz/qoozn2_720/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niur.live/live/stream-327159_lsd.m3u8?txSecret=d13a1d887b251fe2d0ff9ae089083f78&amp;txTime=6a39bbb6
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdnh121/live/stream/720p/tracks-v1a1/mono.m3u8
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s1.yalla5live.com/live/s1.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://sportzfylive.com/stream/hd1-argentina-x-austria-2026-06-22/manifest.m3u8
+https://1.bb1.dpdns.org/hls/1/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
