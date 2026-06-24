@@ -27,7 +27,7 @@ jobs:
       - name: 📦 Install dependencies
         run: |
           pip install --upgrade pip
-          pip install playwright
+          pip install playwright yt-dlp
 
       - name: 🌐 Install Chromium browser
         run: playwright install chromium --with-deps
