@@ -29,7 +29,7 @@ log = logging.getLogger(__name__)
 
 # ── Config ────────────────────────────────────────────────────────────────────
 
-BASE_URL = "https://blocinoapi.com"
+BASE_URL = "https://blocinoapi.com" "https://www.youtube.com/live/ITx_k7uNFP4?si=3r7EGJ61A2DZmVFH"
 
 # Add individual channel watch pages here if you know them.
 # The script will ALSO auto-discover channels from the main page.
