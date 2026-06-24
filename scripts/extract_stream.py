@@ -45,9 +45,9 @@ MANUAL_CHANNELS = [
 #   - a channel handle/URL,        e.g. "https://www.youtube.com/@SomeChannel"
 #     (yt-dlp will resolve this to whatever is currently live, if anything)
 YOUTUBE_CHANNELS = [
-    # {"name": "Somoy TV YT",       "url": "https://www.youtube.com/live/ITx_k7uNFP4?si=3r7EGJ61A2DZmVFH", "group": "FWC Special"},
-    # {"name": "Ekattor TV YT","url": "https://www.youtube.com/live/9L9ymmaPIS0?si=S62X-5-YFRjXmPLE", "group": "FWC Special"},
-    # {"name": "DBC News YT",       "url": "https://www.youtube.com/live/W5ANJGgnjxg?si=GAqod5skeKdezbyz", "group": "FWC Special"},
+    {"name": "Somoy TV YT",   "url": "https://www.youtube.com/live/ITx_k7uNFP4", "group": "FWC Special"},
+    {"name": "Ekattor TV YT", "url": "https://www.youtube.com/live/9L9ymmaPIS0", "group": "FWC Special"},
+    {"name": "DBC News YT",   "url": "https://www.youtube.com/live/W5ANJGgnjxg", "group": "FWC Special"},
 ]
 
 OUTPUT_PATH = Path(__file__).parent.parent / "playlist" / "fifa_tv.m3u"
