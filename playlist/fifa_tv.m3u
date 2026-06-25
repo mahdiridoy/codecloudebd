@@ -1,22 +1,16 @@
 #EXTM3U
-# Auto-updated : 2026-06-25 21:43 UTC
-# Total channels: 92
+# Auto-updated : 2026-06-25 23:19 UTC
+# Total channels: 90
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a8.kora-plus.app/live/max1.m3u8?token=VU4aMS4XW_voR8dODY_5NfdokJQ&exp=1782423149
+https://pub-4b4b47ec811e458cadb289e7ea20ea13.r2.dev/en/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a8.kora-plus.app/live/max1.m3u8?token=VU4aMS4XW_voR8dODY_5NfdokJQ&amp;exp=1782423149
+https://am.proect.xyz/wesa1_480/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niur.live/live/stream-9912091_lsd.m3u8?txSecret=9e7c7263b75dcea1d18232cf7a894e3e&amp;txTime=6a3dea92
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://am.proect.xyz/kooq1_720/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a8.kora-plus.app/live/max2.m3u8?token=IHCuqS5o_P6goymKMinAG3pA7wA&amp;exp=1782423267
+https://am.proect.xyz/kooq1_480/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
