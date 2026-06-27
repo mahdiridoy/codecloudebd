@@ -1,7 +1,10 @@
 #EXTM3U
-# Auto-updated : 2026-06-26 22:15 UTC
+# Auto-updated : 2026-06-27 00:09 UTC
 # Total channels: 93
 # Source        : https://blocinoapi.com
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://za.teworld.online/mooott1_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pub-def84fa19dfb46b6923a22b795dac2e2.r2.dev/sp1/index.m3u8
@@ -11,9 +14,6 @@ https://we.smarop.store/spoos1_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pub-def84fa19dfb46b6923a22b795dac2e2.r2.dev/en1/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://za.teworld.online/mooott1_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://za.teworld.online/mooott1_720/index.m3u8
