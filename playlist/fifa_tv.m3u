@@ -1,13 +1,13 @@
 #EXTM3U
-# Auto-updated : 2026-06-27 22:03 UTC
+# Auto-updated : 2026-06-28 00:03 UTC
 # Total channels: 90
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://ex.moorarts.xyz/diluoe1_480/index.m3u8
+https://pub-098b280041274cf5929f5e19cfc8ac67.r2.dev/en/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pub-098b280041274cf5929f5e19cfc8ac67.r2.dev/en/index.m3u8
+https://ex.moorarts.xyz/diluoe1_480/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://as.voodevon.xyz/noozile2_720/index.m3u8
