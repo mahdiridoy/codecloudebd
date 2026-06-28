@@ -1,19 +1,43 @@
 #EXTM3U
-# Auto-updated : 2026-06-28 00:03 UTC
-# Total channels: 90
+# Auto-updated : 2026-06-28 05:18 UTC
+# Total channels: 97
 # Source        : https://blocinoapi.com
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb563e1e6577609092cd2167d5f162ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ba86852db80148b6f4adafb8c2360625f5c98435ee3b24af1f9b75e148e6da3ac1b4ac72f58e68314c8c94dbf89d3469b45d325f01399c7f4d8d546e027a059816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935f55819b46e6bd58b79a1beb3d64c462dabca19124f10673de88957059c1c9394e0cf747597ff153220a3088a707c6cc7af817c0ca4647f97230004533e18b95f9399820b6adc10cdd5ff6fbae6f99d2f4b4d624b2c834a9da362c922e7b5c9a41c0c53574da196548bd3970e702a788f8e5adb0408f9f5bfc38e5e759a3b5b6de16e8f0f5e2cd4623835a50ce98a3069be2308ae3c29b40d66d70cafee6cbd8cf3d12b17f99ecb4bf46aaf920fd1fd0de02d1f5110bcff2910141e289ebe285d7e298376e5d5cbf37e4655bfa083ad96214d6d53205b028fedf063dbdf905b7a38f51377303a406dd56eb04ed00f4e0c2bb36ef0a41b7b88036160a69036535e6381dbf3e6a3d3d94fa170c3c59f6176db388200d1b74083ab8d0d80621514f20cf4d429592809/89/640x360_1561904/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb563e1e6577609092cd2167d5f162ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ba86852db80148b6f4adafb8c2360625f5c98435ee3b24af1f9b75e148e6da3ac1b4ac72f58e68314c8c94dbf89d3469b45d325f01399c7f4d8d546e027a059816f639f943a581facb33bfefc53bfce9f6d79af6529521b4694dbf99c601df68ac7c19a85a6916aed07c6c9048c6525b2039935f55819b46e6bd58b79a1beb3d64c462dabca19124f10673de88957059c1c9394e0cf747597ff153220a3088a707c6cc7af817c0ca4647f97230004533e18b95f9399820b6adc10cdd5ff6fbae6f99d2f4b4d624b2c834a9da362c922e7b5c9a41c0c53574da196548bd3970e702a788f8e5adb0408f9f5bfc38e5e759a3b5b6de16e8f0f5e2cd4623835a50ce98a3069be2308ae3c29b40d66d70cafee6cbd8cf3d12b17f99ecb4bf46aaf920fd1fd0de02d1f5110bcff2910141e289ebe285d7e298376e5d5cbf37e4655bfa083ad96214d6d53205b028fedf063dbdf905b7a38f51377303a406dd56eb04ed00f4e0c2bb36ef0a41b7b88036160a69036535e6381dbf3e6a3d3d94fa170c3c59f6176db388200d1b74083ab8d0d80621514f20cf4d429592809/89/1920x1080_5162480/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://ex.uoooner.site/argantin1_720/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-098b280041274cf5929f5e19cfc8ac67.r2.dev/en1/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782612922-0-0-d6667e2818c2f6bbe5f7b5dedf2296d3
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-098b280041274cf5929f5e19cfc8ac67.r2.dev/sp1/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://1.simoplay.com/my-hls/h9asfma10d5.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pub-098b280041274cf5929f5e19cfc8ac67.r2.dev/en/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://ex.moorarts.xyz/diluoe1_480/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://as.voodevon.xyz/noozile2_720/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
@@ -263,9 +287,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://a7.kora-plus.app/live/max1.m3u8?token=LX4u2Quumj-S8Dyo47MYhnMRRRI&amp;exp=1782060742
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://47cup.s3.us-east-2.amazonaws.com/max4/master.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
