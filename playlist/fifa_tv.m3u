@@ -1,28 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-06-29 17:38 UTC
-# Total channels: 91
+# Auto-updated : 2026-06-29 19:59 UTC
+# Total channels: 88
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://am.homom.store/braz1_480/index.m3u8
+https://a6.kora-plus.app/live/max2.m3u8?token=Ujix2H4jkvUhbOxy38hm5sYu_JY&exp=1782764654
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://we.daydons.online/Japa2_720/index.m3u8
+https://a6.kora-plus.app/live/max2.m3u8?token=Ujix2H4jkvUhbOxy38hm5sYu_JY&amp;exp=1782764654
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pub-85819be5176c4d29bb0ce67fa13e15ab.r2.dev/en/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-494201_lsd.m3u8?auth_key=1782755902-0-0-4c709ad81347bb67d75547dc2b6872dc
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://next.badinan.xyz/nexttv/FHD/playlist.m3u8
+https://mc.rootsee.shop/citroo3_720/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
