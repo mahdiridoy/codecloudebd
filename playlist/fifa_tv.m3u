@@ -1,13 +1,7 @@
 #EXTM3U
-# Auto-updated : 2026-06-29 19:59 UTC
-# Total channels: 88
+# Auto-updated : 2026-06-29 21:41 UTC
+# Total channels: 86
 # Source        : https://blocinoapi.com
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a6.kora-plus.app/live/max2.m3u8?token=Ujix2H4jkvUhbOxy38hm5sYu_JY&exp=1782764654
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a6.kora-plus.app/live/max2.m3u8?token=Ujix2H4jkvUhbOxy38hm5sYu_JY&amp;exp=1782764654
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://mc.rootsee.shop/citroo3_720/index.m3u8
