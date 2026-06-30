@@ -1,16 +1,16 @@
 #EXTM3U
-# Auto-updated : 2026-06-30 21:44 UTC
+# Auto-updated : 2026-06-30 23:14 UTC
 # Total channels: 5
 # Source        : https://blocinoapi.com
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://1.13df.dpdns.org/hls/1/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://us.kooraa12.cfd/strom1_360/index.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://us.kooraa12.cfd/strom1_720/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1.13df.dpdns.org/hls/1/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1.simoplay.com/my-hls/h9asfma10d5.m3u8
