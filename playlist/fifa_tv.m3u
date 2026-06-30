@@ -1,34 +1,16 @@
 #EXTM3U
-# Auto-updated : 2026-06-30 15:29 UTC
-# Total channels: 10
+# Auto-updated : 2026-06-30 17:55 UTC
+# Total channels: 4
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://cd.coorting.online/homee1_360/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://1.simoplay.com/my-hls/h9asfma10d5.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://cd.coorting.online/homee1_720/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/c29c43a9-9dbb-4ce8-98d2-16b57ac0ea7a/0.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/c29c43a9-9dbb-4ce8-98d2-16b57ac0ea7a/2.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://ze.doostark.shop/momoe2_720/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-327159_lsd.m3u8?auth_key=1782768382-0-0-f0c41bcbad95fe8239ebcf7dc4139301
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://as.syooks.space/edzoim1_720/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a14.kora-plus.app/live/max1.m3u8?token=eUo3ylYmcKhq6Q10axbFyOipeKQ&amp;exp=1782780498
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1nyaler.streamhostingcdn.top/stream/52/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a14.kora-plus.app/live/max11.m3u8?token=8KB0zXfw7gswie_-fKQfz1wRpQg&amp;exp=1782780608
