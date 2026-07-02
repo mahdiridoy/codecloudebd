@@ -1,10 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-07-02 18:25 UTC
-# Total channels: 3
+# Auto-updated : 2026-07-02 20:19 UTC
+# Total channels: 6
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://2.simoplay.com/my-hls/h9asfma10d5.m3u8
+https://pul-tenm.gkykp.com/live/hd-en-1-4459728.m3u8?txSecret=fb9886e58494e1a0f969531c8f296d85&txTime=6A480188
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pul-tenm.gkykp.com/live/hd-en-1-4459728.m3u8?txSecret=fb9886e58494e1a0f969531c8f296d85&amp;txTime=6A480188
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a14.kora-plus.app/live/max1.m3u8?token=DLN4YGYt2pLa1SLGp0z8Y1zpNvQ&amp;exp=1783024922
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=afdb1e8fd1de86dedc0f85b47e8a1ab1&amp;txTime=6a470713
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://www.rtmpcdn.com/live/cctv5.m3u8
