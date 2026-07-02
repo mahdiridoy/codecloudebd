@@ -1,22 +1,19 @@
 #EXTM3U
-# Auto-updated : 2026-07-02 20:19 UTC
-# Total channels: 6
+# Auto-updated : 2026-07-02 22:07 UTC
+# Total channels: 5
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pul-tenm.gkykp.com/live/hd-en-1-4459728.m3u8?txSecret=fb9886e58494e1a0f969531c8f296d85&txTime=6A480188
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pul-tenm.gkykp.com/live/hd-en-1-4459728.m3u8?txSecret=fb9886e58494e1a0f969531c8f296d85&amp;txTime=6A480188
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/db0b1e63-80dd-499e-85c8-67cfd9c279ae/0.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a14.kora-plus.app/live/max1.m3u8?token=DLN4YGYt2pLa1SLGp0z8Y1zpNvQ&amp;exp=1783024922
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=afdb1e8fd1de86dedc0f85b47e8a1ab1&amp;txTime=6a470713
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/db0b1e63-80dd-499e-85c8-67cfd9c279ae/2.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://www.rtmpcdn.com/live/cctv5.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
+https://pull.niur.live/live/stream-327159_lhd.m3u8?txSecret=afdb1e8fd1de86dedc0f85b47e8a1ab1&amp;txTime=6a470713
