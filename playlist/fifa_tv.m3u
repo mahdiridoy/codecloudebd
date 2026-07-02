@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated : 2026-07-02 11:34 UTC
+# Auto-updated : 2026-07-02 14:02 UTC
 # Total channels: 7
 # Source        : https://blocinoapi.com
 
@@ -7,10 +7,10 @@
 https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/dd8dc603-26b5-4245-b3be-c74f75851417/0.m3u8
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/9dcf6fdd-023b-4bcb-a753-d75b0cc234cf/0.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/dd8dc603-26b5-4245-b3be-c74f75851417/2.m3u8
+https://a62dad94.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/9dcf6fdd-023b-4bcb-a753-d75b0cc234cf/2.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://2.simoplay.com/my-hls/h9asfma10d5.m3u8
