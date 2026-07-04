@@ -1,28 +1,25 @@
 #EXTM3U
-# Auto-updated : 2026-07-03 22:05 UTC
-# Total channels: 92
+# Auto-updated : 2026-07-04 00:05 UTC
+# Total channels: 91
 # Source        : https://blocinoapi.com
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a7.kora-plus.app/live/itv1.m3u8?token=EMnI_ZpwJ6d0CAH__v9-FFbQsOg&exp=1783117804
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a7.kora-plus.app/live/itv1.m3u8?token=EMnI_ZpwJ6d0CAH__v9-FFbQsOg&amp;exp=1783117804
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a7.kora-plus.app/live/max2.m3u8?token=LJy4suzvd2hASC4SZ2Fo3_HiExY&amp;exp=1783116419
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a6.kora-plus.app/live/tv5.m3u8?token=51LReBmuGJ8Dw6GrTilVWZ7y_6M&amp;exp=1783116453
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://eun12.playlist.ttvnw.net/v1/playlist/Cp4HlkfsFEnpOij9quB46lLrgEdu_3PgCpdextJg9lVzX2ODzc0jFm_1PpyiiDSmuuJOO5rGwgCYu3bYJeBPRtmvEJXyWOADoIbNPRzFzAm8lpFelnMIB1l1yW9e14BKN1l3L1ish8f8HrSYLNl_BEYAk0pqLW-_7nbBsmt0TRxrfidR1zw2VWXh5du-v5TqRbWveKcdKQxkqoXdHMoRTI4MBhWebLuaFEXUf2Tmx0nOXEZQ2hACzA8uFcl3dNy5o3dYOKDm7rdvQ6nseKF_F0n08lduz5UFEVNhcFUQwHpsydE5K2pZAnRAoa-Yxj51CaS3O5ONKyd9lz7hyMpzInct1tD8u3J6tdnXpdBwOYAVoTcGbLEVmAb7sND7dvxdIgNT5hc3J6xyLPfAuJv1EOjLqDBme40TuLHyKgbhbjCbfVrSDFughOa9O-XA-4_lygs_8IdutUrrnTXpC75vT4GMFFBH3nZ-bP25xKZ9thN8fTBLaDo9HCN1SI-YqWA4d1-PvJVTmZg7g3C3wH5ytL6xmQJXaG02SQYVnXISU_oIiMbV_oqnmKdtRkmxYCl63z-WfbtgOlqAfHX9Fm3jhR_NkWT3iPgxz7sms4PUFyX3T5QsqhME_GT9mvhKRSLfu-M7Z2niaoaFtClpm6CXV0aXgnbnASKgQ9FWgwDHgvUfC3L4U8wvNAPHBN_IMuNtsFAJ0XaPpZO7PdmyftiPDXOjQl8Mb9pocMT4ww7HqUUN8xYrp7k4iDQs60Dz-E_IbrbpNoDIqiioUquRvEebTHbguxddooRpS0U11963IOyU7sdNbgpdmEMzBrHMWe5WiDRvAW4opxHuG3sAkANwWPE0B3Oy_59bStC_AIr94FsdkO48OnzEDaVFKnLKoBBamazNJNAfXWzR2BehC9TkVwxRZHGxTC4mxcHnfQLjkMZcBBQaasvecv-H222pXpXTEs49uGfh1hUKE6SUpiNuyLRD9yrpE-97or--6WHx4hZRY_Hr2mPqn1Z_JxOIGzrY7v4DcSYpvs_-lbNjoOQU3GL_De8ImFYyOUdd_FYQLJNgreo5P066Ww_qRcvu6_MgksCpufabYtle65WjhblmV41mSKfNBbR_-Pw7hGTvdo71wnQdBjBvTQFEuIc_ZBEhBPMq2v9zQIplDZvMCDwRFMkHwdCh328OifUl6cDoUYX1lKzq7uGWnkTxjCAVLhKMgVvbM9P8LsAJFq6si8FgVAwaDBmUdVSXC-sUSmfI6iABKglldS13ZXN0LTIwwg8.m3u8
+https://a15.kora-plus.app/live/max2.m3u8?token=6ed8P18pbkufOPozYWUfSXJ0sBc&amp;exp=1783123844
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a10.kora-plus.app/live/itv1.m3u8?token=2MiqqZaCeHwlDzSqXOwdX0yES0E&amp;exp=1783123871
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8?sub_m3u8=true&amp;edge_slice=true&amp;user_session_id=0b0f529b28de15b9e0bb4e543f7ac5ba
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a6.kora-plus.app/live/tv5.m3u8?token=51LReBmuGJ8Dw6GrTilVWZ7y_6M&amp;exp=1783116453
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://eun12.playlist.ttvnw.net/v1/playlist/Cp4HlkfsFEnpOij9quB46lLrgEdu_3PgCpdextJg9lVzX2ODzc0jFm_1PpyiiDSmuuJOO5rGwgCYu3bYJeBPRtmvEJXyWOADoIbNPRzFzAm8lpFelnMIB1l1yW9e14BKN1l3L1ish8f8HrSYLNl_BEYAk0pqLW-_7nbBsmt0TRxrfidR1zw2VWXh5du-v5TqRbWveKcdKQxkqoXdHMoRTI4MBhWebLuaFEXUf2Tmx0nOXEZQ2hACzA8uFcl3dNy5o3dYOKDm7rdvQ6nseKF_F0n08lduz5UFEVNhcFUQwHpsydE5K2pZAnRAoa-Yxj51CaS3O5ONKyd9lz7hyMpzInct1tD8u3J6tdnXpdBwOYAVoTcGbLEVmAb7sND7dvxdIgNT5hc3J6xyLPfAuJv1EOjLqDBme40TuLHyKgbhbjCbfVrSDFughOa9O-XA-4_lygs_8IdutUrrnTXpC75vT4GMFFBH3nZ-bP25xKZ9thN8fTBLaDo9HCN1SI-YqWA4d1-PvJVTmZg7g3C3wH5ytL6xmQJXaG02SQYVnXISU_oIiMbV_oqnmKdtRkmxYCl63z-WfbtgOlqAfHX9Fm3jhR_NkWT3iPgxz7sms4PUFyX3T5QsqhME_GT9mvhKRSLfu-M7Z2niaoaFtClpm6CXV0aXgnbnASKgQ9FWgwDHgvUfC3L4U8wvNAPHBN_IMuNtsFAJ0XaPpZO7PdmyftiPDXOjQl8Mb9pocMT4ww7HqUUN8xYrp7k4iDQs60Dz-E_IbrbpNoDIqiioUquRvEebTHbguxddooRpS0U11963IOyU7sdNbgpdmEMzBrHMWe5WiDRvAW4opxHuG3sAkANwWPE0B3Oy_59bStC_AIr94FsdkO48OnzEDaVFKnLKoBBamazNJNAfXWzR2BehC9TkVwxRZHGxTC4mxcHnfQLjkMZcBBQaasvecv-H222pXpXTEs49uGfh1hUKE6SUpiNuyLRD9yrpE-97or--6WHx4hZRY_Hr2mPqn1Z_JxOIGzrY7v4DcSYpvs_-lbNjoOQU3GL_De8ImFYyOUdd_FYQLJNgreo5P066Ww_qRcvu6_MgksCpufabYtle65WjhblmV41mSKfNBbR_-Pw7hGTvdo71wnQdBjBvTQFEuIc_ZBEhBPMq2v9zQIplDZvMCDwRFMkHwdCh328OifUl6cDoUYX1lKzq7uGWnkTxjCAVLhKMgVvbM9P8LsAJFq6si8FgVAwaDBmUdVSXC-sUSmfI6iABKglldS13ZXN0LTIwwg8.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
