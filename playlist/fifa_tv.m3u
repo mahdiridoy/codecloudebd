@@ -1,22 +1,22 @@
 #EXTM3U
-# Auto-updated : 2026-07-04 20:09 UTC
+# Auto-updated : 2026-07-04 22:00 UTC
 # Total channels: 90
 # Source        : https://blocinoapi.com
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pul-tenm.gkykp.com/live/hd-en-1-4459801.m3u8?txSecret=5ba877c5a81a17c6dfe3403e85289efe&txTime=6A4A82C8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pul-tenm.gkykp.com/live/hd-en-1-4459801.m3u8?txSecret=5ba877c5a81a17c6dfe3403e85289efe&amp;txTime=6A4A82C8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://s3.us-east-2.amazonaws.com/cdna130/live/stream/360p/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://2.simoplay.com/my-hls/h9asfma10d5.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a16.kora-plus.app/live/max2.m3u8?token=lpPkQ8ldXrNJUP3OM8qls0AEpYE&amp;exp=1783198132
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-6b683487aebe4a3c9adc59b27d2de17b.r2.dev/hls/1/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
