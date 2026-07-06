@@ -1,25 +1,34 @@
 #EXTM3U
-# Auto-updated : 2026-07-06 00:07 UTC
-# Total channels: 90
+# Auto-updated : 2026-07-06 05:12 UTC
+# Total channels: 93
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://gm.payzios.shop/onteia1_480/index.m3u8
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb563e1e6573638f84cc3f78d9f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ba86852db80148b6f4adafb8c2360625f5c98435ee3b24aa7fbb50b168e3fa7ac1b40c32658e68314c8c94ebed5d446cb458570a21d9a9bf68fd410e0d6ab4b918649a96b224048aac214a6c754a2df9e290a88703c430d279ec9f1d06f4c4bc3de3e8292e5b077eb1b8ea82884723eb801e22fce50d82dc281c090cd65561f9fc26319dd5c68e2e25bf1982ab15a12b063e9abeadc3c5f91ff177940c65715434137bdf2d11d88cf14d9e36dd5f4212a31ce954a8c8ef2addbf0dc1ad2759187c39133141a38441ad009ebda4ccb39d17d9fcb110a55590bf8c9028ad58f1e784967b2ad72985317b0d08ec3f80b38c16f521acb68cb54086983653e29ab7db7ca723cc9150b83342ff21760d315b2eb7a87d2b18f3132bbdac855ec2fbee578b5d836e93c6c1752c9b14639624372d7e26377405acb57ebdecfa13a4937e5f9c9f1d7407a601d1241079fedf77af8df9679fd7717c1ead2125e7bc9b0396d2fc0c794e64f5562894a/160/640x360_1561904/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb563e1e6573638f84cc3f78d9f862ffa65928d80b6c852a6ab454876da64607d1e3b680fd358b785d9f01de6a1a0a080361cf12ce3407c3c76ad91174204213cfcac9229d86170ab5c60c2c3aab016635837209c0790a79dca93d0d8636ba304530e01b615b37c2ec5ba86852db80148b6f4adafb8c2360625f5c98435ee3b24aa7fbb50b168e3fa7ac1b40c32658e68314c8c94ebed5d446cb458570a21d9a9bf68fd410e0d6ab4b918649a96b224048aac214a6c754a2df9e290a88703c430d279ec9f1d06f4c4bc3de3e8292e5b077eb1b8ea82884723eb801e22fce50d82dc281c090cd65561f9fc26319dd5c68e2e25bf1982ab15a12b063e9abeadc3c5f91ff177940c65715434137bdf2d11d88cf14d9e36dd5f4212a31ce954a8c8ef2addbf0dc1ad2759187c39133141a38441ad009ebda4ccb39d17d9fcb110a55590bf8c9028ad58f1e784967b2ad72985317b0d08ec3f80b38c16f521acb68cb54086983653e29ab7db7ca723cc9150b83342ff21760d315b2eb7a87d2b18f3132bbdac855ec2fbee578b5d836e93c6c1752c9b14639624372d7e26377405acb57ebdecfa13a4937e5f9c9f1d7407a601d1241079fedf77af8df9679fd7717c1ead2125e7bc9b0396d2fc0c794e64f5562894a/160/1920x1080_5162480/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pub-378b7bd952df4d1188c523b5ea98e6f1.r2.dev/hls/1/stream.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pull.niues.live/live/stream-414317_lhd.m3u8?auth_key=1783050323-0-0-15869de1b8eb3a7b9881bdaf7918dd40
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://a18.kora-plus.app/live/itv1.m3u8?token=50XVSBSksA1XhkkP8Xu8KWT8gNM&amp;exp=1783283458
+https://a18.kora-plus.app/live/bbc1.m3u8?token=-XZX4rBtl6A5u8H-E5L4L_OCnfI&amp;exp=1783300238
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pul-tenm.gkykp.com/live/hd-en-1-4459802.m3u8?txSecret=d2806c0fff0dd4b66f033025771bf892&amp;txTime=6A4C0760
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pullsgp.yyzb456.top/live/stream-506605_lhd.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
+https://pull.niues.live/live/stream-534219_lhd.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
