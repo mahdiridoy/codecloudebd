@@ -1,13 +1,13 @@
 #EXTM3U
-# Auto-updated : 2026-07-07 16:32 UTC
+# Auto-updated : 2026-07-07 19:03 UTC
 # Total channels: 91
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783442783-0-0-72eb2c9b9fcb3298ae386b79e5c8b996
+https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783442783-0-0-72eb2c9b9fcb3298ae386b79e5c8b996
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://1.cdnfrontstage3.cfd/hls/1/stream.m3u8
