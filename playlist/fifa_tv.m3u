@@ -1,28 +1,16 @@
 #EXTM3U
-# Auto-updated : 2026-07-09 19:53 UTC
-# Total channels: 92
+# Auto-updated : 2026-07-09 21:25 UTC
+# Total channels: 88
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://cu.freshfin.site/mercaz1_480/index.m3u8
+https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783630464-0-0-09c1237b50b7c43b22f054258df1967e
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-9912091_lsd.m3u8?auth_key=1783442783-0-0-72eb2c9b9fcb3298ae386b79e5c8b996
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://1.cdnfrontstage3.cfd/hls/1/stream.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://yallashot.space/live/1654cb4415273d15b3c7b5c7bc969ce3.m3u8?hls_ctx=1a5559n6
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://3.simokora.com/my-hls/h9asfma10d5.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://pull.niues.live/live/stream-534219_lhd.m3u8
