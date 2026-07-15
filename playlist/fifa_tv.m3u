@@ -1,19 +1,25 @@
 #EXTM3U
-# Auto-updated : 2026-07-15 18:09 UTC
-# Total channels: 91
+# Auto-updated : 2026-07-15 20:10 UTC
+# Total channels: 93
 # Source        : https://blocinoapi.com
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1784146884-0-0-bc44d8b4b4cf19a3ebf1532e20f6f105
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a0504dae9c72cdb02b00ddedf6df4973.livehwc4.com/pullsgp.yyzb456.top/live/stream-758611_lhd.m3u8?sub_m3u8=true&amp;edge_slice=true&amp;user_session_id=b114985121198bf16e2bd9a66e104a38
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://a13.kora-plus.app/live/bbc11.m3u8?token=iq0ewZIkey2TtuqiS4m4CfRzdXs&amp;exp=1784146139
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://live05.miekgo.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://live05.miekgo.app/live/08552895.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://esd.zenithez.website/ypmf1_480/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
-https://pull.niues.live/live/stream-414317_lsd.m3u8?auth_key=1784060604-0-0-4949e48ebddda712a805d8752be46427
+https://s3.us-east-2.amazonaws.com/caa100/live/stream/720p/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
