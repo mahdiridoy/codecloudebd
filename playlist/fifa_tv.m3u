@@ -1,6 +1,6 @@
 #EXTM3U
-# Auto-updated : 2026-07-18 20:50 UTC
-# Total channels: 90
+# Auto-updated : 2026-07-18 21:52 UTC
+# Total channels: 91
 # Source        : https://blocinoapi.com
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
@@ -11,6 +11,9 @@ https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://3.simokora.com/my-hls/4v561xgucp9/source/index.m3u8
+
+#EXTINF:-1 group-title="BD TV",CodeCloudBD Live
+https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784386634-0-0-2962abdc17aa5e965767495668e1cc01
 
 #EXTINF:-1 group-title="BD TV",CodeCloudBD Live
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
