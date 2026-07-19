@@ -19,6 +19,14 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: 📄 Verify source.txt exists
+        run: |
+          if [ ! -f source.txt ]; then
+            echo "❌ source.txt not found at repo root — add your source list first."
+            exit 1
+          fi
+          echo "✅ Found source.txt with $(grep -vc '^\s*#\|^\s*$' source.txt) active source line(s)"
+
       - name: 🐍 Set up Python 3.11
         uses: actions/setup-python@v5
         with:
@@ -46,4 +54,3 @@ jobs:
             git commit -m "🔄 Auto-update [$(date -u '+%Y-%m-%d %H:%M UTC')]"
             git push
           fi
-          
