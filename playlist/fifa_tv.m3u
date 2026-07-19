@@ -1,9 +1,27 @@
 #EXTM3U
-# Auto-updated : 2026-07-19 17:44 UTC
-# Total channels: 106
+# Auto-updated : 2026-07-19 18:28 UTC
+# Total channels: 112
 
-#EXTINF:-1 group-title="IPTV",fifalive.link
-https://content-aapm1.uplynk.com/d02ee5c1fec645c58a072849f22609d5/f.m3u8?pbs=ed78b96eaacb4fc19170a47dddac4e15
+#EXTINF:-1 group-title="IPTV",tv.pppoe.online #1
+https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
+
+#EXTINF:-1 group-title="IPTV",tv.pppoe.online #2
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=-655874855&e=pa&n=4657435817867687&aid=gz_FBsVMEeWiQBKCk4Wcgw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=1mdpv88vrd9k&et=classic&i=0&lid=endv4a3dp99u&lsa=set&mt=1&pbd=1&pbr=1&pgi=15dgt1ca1dox&ph=1&pid=SAHhwvZq&pii=0&pl=524&plc=1&pli=z1w68g1tf1ln&pp=hlsjs&prc=1&ps=4&pss=1&pt=Proxybdix%20%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AD%20%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF&pu=https%3A%2F%2Ftv.pppoe.online%2F&pv=8.49.5&pyc=0&s=0&sdk=0&stc=1&stpe=0&tv=4.0.15&vb=1&vi=1&vl=90&wd=932&ab=0&cme=0&flc=0&lng=bn&mu=https%3A%2F%2Fd1jzu95oc8fgt3.cloudfront.net%2FFOX_Sports1080p.m3u8&pd=3&pdr=https%3A%2F%2Fcircleplay.top%2F&plng=bn&pni=0&pr=2&tb=0&vd=0&sa=1784483587170
+
+#EXTINF:-1 group-title="IPTV",tv.pppoe.online #3
+https://prd.jwpltx.com/v1/jwplayer6/ping.gif?h=405916448&e=s&n=0388359482142211&aid=gz_FBsVMEeWiQBKCk4Wcgw&amp=0&at=1&c=-1&ccp=0&cp=0&d=1&eb=0&ed=6&emi=1mdpv88vrd9k&et=classic&i=0&lid=endv4a3dp99u&lsa=set&mt=1&pbd=1&pbr=1&pgi=15dgt1ca1dox&ph=1&pid=SAHhwvZq&pii=0&pl=524&plc=1&pli=z1w68g1tf1ln&pp=hlsjs&ppm=LIVE&prc=1&ps=4&pss=1&pt=Proxybdix%20%E0%A6%B2%E0%A6%BE%E0%A6%87%E0%A6%AD%20%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF&pu=https%3A%2F%2Ftv.pppoe.online%2F&pv=8.49.5&pyc=1&s=0&sdk=0&stc=1&stpe=0&tv=4.0.15&vb=1&vi=1&vl=90&wd=932&abm=1&cae=0&cct=0&ch=2&cst=36.036&cdid=jwplayerDiv&drm=0&ff=440&fsm=0&l=0&lng=bn&mk=hls&mu=https%3A%2F%2Fd1jzu95oc8fgt3.cloudfront.net%2FFOX_Sports1080p.m3u8&pcp=39&pd=3&pdr=https%3A%2F%2Fcircleplay.top%2F&plng=bn&pni=0&pr=2&q=0&qcr=initial%20choice&sbr=0&sp=0&strt=450&tb=48&tt=0&vd=0&vh=1080&vs=0&vw=1920&sa=1784483587617
+
+#EXTINF:-1 group-title="IPTV",fifalive.link #1
+https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=44f61e7b2773d70d9e6bf3a1bce3ffb6&wsABSTime=1784526599&wsSession=436e9186b699ddc3ed613af6-178448340422806&wsIPSercert=605535b1ed93dce38c8d9dc038c35d04&wsBindIP=2&wsserid=1168201446953502087
+
+#EXTINF:-1 group-title="IPTV",fifalive.link #2
+https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel1/playlist.m3u8?wsSecret=44f61e7b2773d70d9e6bf3a1bce3ffb6&amp;wsABSTime=1784526599&amp;wsSession=436e9186b699ddc3ed613af6-178448340422806&amp;wsIPSercert=605535b1ed93dce38c8d9dc038c35d04&amp;wsBindIP=2&amp;wsserid=1168201446953502087
+
+#EXTINF:-1 group-title="IPTV",fifalive.link #3
+https://tfxp1gr3uomttgr31hp3tfahdrmmcpf5gkce.100ycdn.com/live1.streambylivepulse.com/live/channel15/playlist.m3u8?wsSecret=c450ef7ee56bea4c7c62058bc3176914&amp;wsABSTime=1784526713&amp;wsSession=436e9186b699ddc3ed613af6-178448351752559&amp;wsIPSercert=605535b1ed93dce38c8d9dc038c35d04&amp;wsBindIP=2&amp;wsserid=1168201446953502087
+
+#EXTINF:-1 group-title="IPTV",fifalive.link #4
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1783284383-0-0-ba541e77b9330eab42075af6aa5029e4
 
 #EXTINF:-1 group-title="IPTV",blocinoapi.com #1
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
