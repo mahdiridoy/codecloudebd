@@ -1,0 +1,42 @@
+# ══════════════════════════════════════════════════════════════════
+# IPTV Source List
+# ══════════════════════════════════════════════════════════════════
+# One entry per line. Add as many lines / sites as you want — the
+# extractor loops over ALL of them every run.
+#
+# Format:
+#   Name | URL | Group
+#
+#   - Name  : optional. If omitted, the extractor uses the page title
+#             / domain (for websites) or the video/channel title (YT).
+#   - URL   : required. Can be:
+#               • a listing/homepage of an IPTV site  -> the extractor
+#                 scans the page itself AND auto-discovers every
+#                 /watch/, /live/, /channel/ style link on it, then
+#                 visits each one to pull its .m3u8
+#               • a single channel/watch page directly -> just that
+#                 one page is scanned
+#               • a YouTube video / live / channel URL  -> resolved
+#                 with yt-dlp instead of the browser scanner
+#   - Group : optional. Used as the group-title in the .m3u playlist.
+#
+# Lines starting with # (or blank lines) are ignored.
+# You can also just paste a bare URL with no "|" — a name/group will
+# be auto-generated.
+# ══════════════════════════════════════════════════════════════════
+
+# ── Websites (auto-discovers every channel on the site) ─────────────
+CodeCloud BD   | https://blocinoapi.com          | BD TV
+Stream CodeCloud | https://stream.codecloud.bd   | BD TV
+Circle Play    | https://circleplay.top          | Sports
+
+# ── A single channel page (no discovery, scans just this page) ─────
+# FIFA TV | https://stream.codecloud.bd/watch/fifa-tv | Sports
+
+# ── YouTube (auto-detected, resolved via yt-dlp, no browser needed) ─
+Somoy TV YT    | https://www.youtube.com/live/ITx_k7uNFP4   | FWC Special
+Ekattor TV YT  | https://www.youtube.com/live/9L9ymmaPIS0   | FWC Special
+DBC News YT    | https://www.youtube.com/live/W5ANJGgnjxg   | FWC Special
+
+# ── Bare URL, no name/group given (auto-named) ───────────────────────
+# https://example-iptv-site.com
