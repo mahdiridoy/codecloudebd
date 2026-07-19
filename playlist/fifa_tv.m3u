@@ -1,276 +1,321 @@
 #EXTM3U
-# Auto-updated : 2026-07-19 13:45 UTC
-# Total channels: 91
+# Auto-updated : 2026-07-19 15:25 UTC
+# Total channels: 106
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #1
-https://live05.miekgo.app/live/78905744.m3u8
+#EXTINF:-1 group-title="IPTV",fifalive.link
+https://content-aapm1.uplynk.com/d02ee5c1fec645c58a072849f22609d5/f.m3u8?pbs=ed78b96eaacb4fc19170a47dddac4e15
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #2
-https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #3
-https://3.simokora.com/my-hls/4v561xgucp9/source/index.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #4
-https://pull.niues.live/live/stream-9912041_lhd.m3u8?auth_key=1784386634-0-0-2962abdc17aa5e965767495668e1cc01
-
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #5
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #1
 https://edge22.776740.ir.cdn.ir/hls2/sport.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #6
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #2
+https://s2.bufaloweb.com/bufalo9/tracks-v4a1/mono.ts.m3u8
+
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #3
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #7
-https://pull.niues.live/live/stream-534219_lhd.m3u8
-
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #8
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #4
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #9
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #5
 https://andro.226503.xyz/checklist/androstreamlivebs2.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #10
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #6
 https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #11
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #7
 https://amg01334-amg01334c2-freelivesports-emea-6791.playouts.now.amagi.tv/playlist/amg01334-beinxtra-beinxtrausapp-freelivesportsemea/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #12
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #8
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #13
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #9
 https://andro.226503.xyz/checklist/androstreamlivebs3.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #14
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #10
 https://andro.226503.xyz/checklist/androstreamlivebs4.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #15
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #11
 https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #16
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #12
 https://tv.topmediatv.net:25463/live/TopMediaWeb/bOteTR8ED1/108.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #17
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #13
 https://tv.cdn.xsg.ge/gpb-2tv/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #18
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #14
 https://tv.cdn.xsg.ge/gpb-2tv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #19
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #15
 https://tvsen7.aynaott.com/foxsports2/index.m3u8?e=1779283790&amp;amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;amp;token=cbb7f40b4af7be51a91e0629a5ac7238
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #20
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #16
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8?e=1779283755&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=f3f4ec98ffbd9567c21e8b2ee98e32d5
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #21
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #17
 https://tvsen5.aynaott.com/PtvSports/index.m3u8?e=1779283784&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=db1789e36c278bf538489fac263e0ffb
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #22
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #18
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #23
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #19
 https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #24
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #20
 https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #25
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #21
 https://tvsen7.aynaott.com/sspts1/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #26
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #22
 https://tvsen7.aynaott.com/sspts1/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #27
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #23
 https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #28
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #24
 https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/bfc6a36e-c250-4afe-b6c9-2bc57855bb7d/4.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #29
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #25
 https://tvsen6.aynaott.com/asports/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #30
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #26
 https://cdn-2.pishow.tv/live/1461/master.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #31
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #27
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #32
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #28
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #33
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #29
 https://tvsen6.aynaott.com/GoldminesBollywood/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #34
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #30
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #35
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #31
 http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #36
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #32
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #37
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #33
 https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #38
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #34
 https://edge2.roarzone.net:8447/roarzone/edge3/sony_max_hd/index.m3u8?token=0acbc3381f074f74cd7db448c566c55fe7592a3c-efc9e16855524918b6a0e514aaddd012-1781061322-1781050522
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #39
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #35
 https://edge2.roarzone.net:8447/roarzone/edge3/sonymax_2/index.m3u8?token=1ae6cc9578f7e8a9fbeb42b32a9ea6e19c246ec6-aa37a828978035cc1450f0721cf5f067-1781061322-1781050522
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #40
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #36
 http://198.195.239.50:8095/StarGold/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #41
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #37
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #42
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #38
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #43
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #39
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #44
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #40
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/1729-audio_113592_eng=113200-video=1181200.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #45
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #41
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #46
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #42
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #47
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #43
 https://albportal.net/albkanalemusic.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #48
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #44
 https://tplay.live/originals/bengali-beats/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #49
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #45
 https://nomawnoijl.gpcdn.net/akash/partyuniverse/chunks.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #50
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #46
 https://vods2.aynaott.com/hindimovies/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #51
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #47
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #52
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #48
 https://live20.bozztv.com/giatvplayout7/giatv-209869/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #53
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #49
 http://103.204.43.87:8080/live/1/1/275.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #54
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #50
 http://103.204.43.87:8080/live/1/1/274.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #55
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #51
 https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #56
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #52
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #57
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #53
 https://live20.bozztv.com/giatvplayout7/giatv-210728/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #58
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #54
 https://amg00627-amg00627c29-rakuten-it-3989.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanitcc-rakutenit/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #59
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #55
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=2202800.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #60
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #56
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8?e=1779283757&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=3da514e08a15c80daed60a18b3f423fa
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #61
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #57
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #62
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #58
 https://tvsen5.aynaott.com/cartoonnetwork/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #63
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #59
 https://tvsen6.aynaott.com/banglatv/index.m3u8?e=1779283758&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=f3e9e2737e35147900c0f4add619ead6
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #64
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #60
 https://tvsen6.aynaott.com/channeli/index.m3u8?e=1779283749&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=1d2782c406bc6c9f853716c3dc41a439
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #65
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #61
 https://app.ncare.live/live-orgin/channels.stream/live-orgin/channels.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #66
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #62
 https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #67
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #63
 https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #68
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #64
 https://tvsen6.aynaott.com/deshtv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #69
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #65
 https://sm-monirul.top/toffee/play/somoy_tv.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #70
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #66
 https://tvsen6.aynaott.com/ekhontv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #71
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #67
 https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #72
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #68
 https://tvsen6.aynaott.com/etv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #73
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #69
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/Global-tv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #74
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #70
 https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/1710-audio_113402_eng=113200-video=1181200.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #75
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #71
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/gazibdz.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #76
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #72
 https://app.ncare.live/live-orgin/jagonews24.stream/live-orgin/jagonews24.stream/chunks.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #77
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #73
 https://tvsen6.aynaott.com/independenttv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #78
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #74
 https://tvsen6.aynaott.com/jamunatv/index.m3u8?e=1779283771&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=2592d440f00d65738bd7f6c5158ce486
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #79
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #75
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #80
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #76
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/mohonatv.stream/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #81
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #77
 https://tvsen6.aynaott.com/mytv/index.m3u8?e=1779283760&amp;u=78be6644-0a65-48ec-81a4-089ac65a2619&amp;token=0a2ae0189a44e789d3fecffe5a474ec3
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #82
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #78
 https://tvsen6.aynaott.com/rtv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #83
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #79
 https://tvsen6.aynaott.com/nexustv/tracks-v1a1/mono.ts.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #84
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #80
 https://5dd3981940faa.streamlock.net:443/thikanatv/thikanatv/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #85
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #81
 https://autentic-adventure-earth-1-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #86
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #82
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #87
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #83
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1181200.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #88
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #84
 https://a7.kora-plus.app/live/max1.m3u8?token=LX4u2Quumj-S8Dyo47MYhnMRRRI&amp;exp=1782060742
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #89
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #85
 https://www.rtmpcdn.com/live/cctv5.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #90
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #86
 https://tiger-hub.vercel.app@vodzong.mjunoon.tv:8087/streamtest/Animal-Planet-158-3/playlist.m3u8
 
-#EXTINF:-1 group-title="BD TV",CodeCloud BD #91
+#EXTINF:-1 group-title="IPTV",blocinoapi.com #87
 https://wildearth-plex.amagi.tv/master.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/and_tv_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/islamic_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
