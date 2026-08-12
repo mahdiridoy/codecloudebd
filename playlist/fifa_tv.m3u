@@ -1,5 +1,5 @@
 #EXTM3U
-# Auto-updated : 2026-08-12 04:34 UTC
+# Auto-updated : 2026-08-12 06:07 UTC
 # Total channels: 18
 
 #EXTINF:-1 group-title="IPTV",fifalive.link
@@ -33,6 +33,9 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8
 https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8
+
+#EXTINF:-1 group-title="IPTV",Channel
 https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV",Channel
@@ -52,6 +55,3 @@ https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8
 
 #EXTINF:-1 group-title="IPTV",Channel
 https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8
-
-#EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/anandatv/playlist.m3u8
