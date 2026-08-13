@@ -1,57 +1,57 @@
 #EXTM3U
-# Auto-updated : 2026-08-13 11:34 UTC
+# Auto-updated : 2026-08-13 12:35 UTC
 # Total channels: 18
 
 #EXTINF:-1 group-title="IPTV",fifalive.link
 https://content-aaps1.uplynk.com/f001607f2eee4eb4aa9960e4dfd4636b/f.m3u8?pbs=5beec233fb294a43af8e6559f7629992
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?nocache=1786620718777
+https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?nocache=1786624356348
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?nocache=1786620750093
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8?nocache=1786624363397
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_1_hd/playlist.m3u8?nocache=1786620757199
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8?nocache=1786624370610
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_2_hd/playlist.m3u8?nocache=1786620763797
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8?nocache=1786624377546
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sony_sports_5_hd/playlist.m3u8?nocache=1786620770504
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?nocache=1786624384620
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?nocache=1786620777044
+https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8?nocache=1786624415849
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8?nocache=1786620807936
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8?nocache=1786624422815
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8?nocache=1786620815052
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?nocache=1786624429375
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?nocache=1786620821657
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?nocache=1786624435954
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?nocache=1786620828290
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?nocache=1786624442979
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?nocache=1786620834979
+https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8?nocache=1786624450077
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8?nocache=1786620841844
+https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?nocache=1786624456827
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?nocache=1786620848290
+https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?nocache=1786624463861
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?nocache=1786620854890
+https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?nocache=1786624470492
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?nocache=1786620861803
+https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?nocache=1786624477653
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?nocache=1786620868425
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?nocache=1786624484534
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?nocache=1786620875044
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekattor_tv/playlist.m3u8?nocache=1786624491604
