@@ -1,51 +1,66 @@
 #EXTM3U
-# Auto-updated : 2026-09-17 18:37 UTC
-# Total channels: 16
+# Auto-updated : 2026-09-17 21:49 UTC
+# Total channels: 21
 
 #EXTINF:-1 group-title="IPTV",fifalive.link
 https://content-aaps1.uplynk.com/f001607f2eee4eb4aa9960e4dfd4636b/f.m3u8?pbs=5beec233fb294a43af8e6559f7629992
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?nocache=1789669916496
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?nocache=1789681426875
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8?nocache=1789669923307
+https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8?nocache=1789681434042
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?nocache=1789669930120
+https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?nocache=1789681441200
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8?nocache=1789669937112
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8?nocache=1789681448203
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?nocache=1789670040960
+https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?nocache=1789681551456
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?nocache=1789670048109
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?nocache=1789681558411
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8?nocache=1789670054897
+https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8?nocache=1789681565439
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?nocache=1789670061792
+https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?nocache=1789681572750
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?nocache=1789670068906
+https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?nocache=1789681580113
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?nocache=1789670075815
+https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?nocache=1789681587032
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?nocache=1789670083296
+https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?nocache=1789681594043
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?nocache=1789670090129
+https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?nocache=1789681601031
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?nocache=1789670096976
+https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?nocache=1789681607983
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?nocache=1789670128222
+https://prod-cdn01-live.toffeelive.com/live/BFFL-1/index.m3u8?edge-cache-token=Expires=1789688838~Starts=1789681638~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2E1YjU1MTEtZjJjNC00MjU1LWI0ZjYtOTA4MjA1MzE5OTI5In0~Signature=rAFP-sG6_774VLl9InJcE93zpeFHHK_imt_POKzdYxDiSdWWetoE8_kslLRQk0iTydOzRTvwdHA5epENTKtcCA&nocache=1789681639043
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?nocache=1789670207166
+https://prod-cdn01-live.toffeelive.com/live/BFFL-2/index.m3u8?edge-cache-token=Expires=1789688846~Starts=1789681646~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2E1YjU1MTEtZjJjNC00MjU1LWI0ZjYtOTA4MjA1MzE5OTI5In0~Signature=36FK_Wc4eVkkD2PC953Pe7HiYVBakKFSlcnBP2BePc-BXHW5xnTEDieGtG34QpVu1cyzb9-ibwChA0vYb6dxBw&nocache=1789681646449
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://prod-cdn01-live.toffeelive.com/live/BFFL-3/index.m3u8?edge-cache-token=Expires=1789688853~Starts=1789681653~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2E1YjU1MTEtZjJjNC00MjU1LWI0ZjYtOTA4MjA1MzE5OTI5In0~Signature=PWqYcUBJurTip7e4EBL2KC15ZIs6ThmpXN0OS_T9Zgff1KdqJO8YQ18ObxU7RMQagoSNvfwRdKqov_AmgdwCDQ&nocache=1789681653904
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://prod-cdn01-live.toffeelive.com/live/BFFL-4/index.m3u8?edge-cache-token=Expires=1789688860~Starts=1789681660~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2E1YjU1MTEtZjJjNC00MjU1LWI0ZjYtOTA4MjA1MzE5OTI5In0~Signature=sjkcYuP8SJS2ftvFFZx_9CwUUirRvbMvRLTS42U5NaLKOv09ParTV64DvmN1hm3FrRYsgijjUFsGfWmdPy8GBw&nocache=1789681660927
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://prod-cdn01-live.toffeelive.com/live/BFFL-5/index.m3u8?edge-cache-token=Expires=1789688867~Starts=1789681667~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Data=eyJzdWJzY3JpYmVyX2lkIjoiN2E1YjU1MTEtZjJjNC00MjU1LWI0ZjYtOTA4MjA1MzE5OTI5In0~Signature=EyBMTpv068huogfPTaEeBeCtCloC_UzzaMQh1wlfOnqVe6fMs-2E4p8LFoDiEhQaJhvFBASVP7W0ztbpHrVKDw&nocache=1789681668157
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?nocache=1789681675776
+
+#EXTINF:-1 group-title="IPTV",Channel
+https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?nocache=1789681755449
