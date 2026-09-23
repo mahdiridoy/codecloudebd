@@ -1,51 +1,51 @@
 #EXTM3U
-# Auto-updated : 2026-09-23 15:35 UTC
+# Auto-updated : 2026-09-23 19:18 UTC
 # Total channels: 16
 
 #EXTINF:-1 group-title="IPTV",fifalive.link
 https://content-aaps1.uplynk.com/f001607f2eee4eb4aa9960e4dfd4636b/f.m3u8?pbs=5beec233fb294a43af8e6559f7629992
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?nocache=1790177551435
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_drama/playlist.m3u8?edge-cache-token=Expires=1790194477~Starts=1790190877~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=YMb-iCCvKUwPEZYYtN8iAjtdRhzI-ud67Sbtj1HnnNfgEc9jOKdfD9YzpIZvFhecWGF0SUgaifQBOUZ_8oMgBA&nocache=1790190878123
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/n_tv/playlist.m3u8?nocache=1790177557699
+https://prod-linear-media.toffeelive.com/cdn/live/n_tv/playlist.m3u8?edge-cache-token=Expires=1790194490~Starts=1790190890~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=NO9wFIye51GkcyiXIn-1_fl6LSz3OTGzCqnNN_lQ8ElU7QOMlf9iO8a7M7gA5zrd4CMhiXJsl-X0qBYK2g2yDQ&nocache=1790190890597
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?nocache=1790177563794
+https://prod-linear-media.toffeelive.com/cdn/live/sonyaath/playlist.m3u8?edge-cache-token=Expires=1790194501~Starts=1790190901~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=Dusb1j01_cRy3O0hC8K5MfOqJAaWpN2xqaHcL5s_PG7kXUu8iKEZvMI_LerY1w2hjU4dAeTd0XAuGKZkkdOEAw&nocache=1790190901435
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_i/playlist.m3u8?nocache=1790177570007
+https://prod-linear-media.toffeelive.com/cdn/live/channel_i/playlist.m3u8?edge-cache-token=Expires=1790194516~Starts=1790190916~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=SLcKQI0uJRoGVK9bDCtVAXOa7M6h-mY2w6RjLwmTlGOVNj_7KQ9eUtdpHD54n3yNUBPIERocPk9AMlEWkMHdAA&nocache=1790190916304
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?nocache=1790177602623
+https://prod-linear-media.toffeelive.com/cdn/live/somoy_tv/playlist.m3u8?edge-cache-token=Expires=1790194553~Starts=1790190953~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=MVcO1n056GZsu0qprf_n2n6fD5t9MdWUjpjE2mTUH4-zIvJDsV6-Zd-wDPtnGGSM2Qh3JO8QQHURvScpJyeHDQ&nocache=1790190954037
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?nocache=1790177608717
+https://prod-linear-media.toffeelive.com/cdn/live/ekhon_tv/playlist.m3u8?edge-cache-token=Expires=1790194566~Starts=1790190966~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=2Wwdwcj3ky8bHQad8q0GaS7ccpxvdDWQ1HDqIG6Cv0Jyvm089FmD6srlnRzceUv4QbBcyT5VY3xVlZfnKel8AQ&nocache=1790190966833
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/globaltv/playlist.m3u8?nocache=1790177614796
+https://prod-linear-media.toffeelive.com/cdn/live/globaltv/playlist.m3u8?edge-cache-token=Expires=1790194578~Starts=1790190978~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=jps3TS8RTKp9LUDkiMN5TzzfJXvdXQDb93-uHWbVYYDMDfAXoCm3zhHE3c389jLPMgVSv2gzDbuPQRY3Ydy6Cg&nocache=1790190978845
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?nocache=1790177620798
+https://prod-linear-media.toffeelive.com/cdn/live/toffee_movie/playlist.m3u8?edge-cache-token=Expires=1790194590~Starts=1790190990~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=pYG7YeQ_1DPhyVVTgVK75mzLE5D948q00iiWqR46wnrBm8mehXq7dR8Y6arhhMqqDLh_3kIJ0m8mgmOVUZqwDQ&nocache=1790190990931
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?nocache=1790177626900
+https://prod-linear-media.toffeelive.com/cdn/live/jamuna_tv/playlist.m3u8?edge-cache-token=Expires=1790194601~Starts=1790191001~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=lVhIUjeDpb-Is6t_Ntm42us75-ZLAITxFAoN6tvxFtLet0ietZmBmA87KkKt75QbiCk2QtJsMjp9zY2ki1Z2Bg&nocache=1790191001907
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?nocache=1790177633041
+https://prod-linear-media.toffeelive.com/cdn/live/rajdhani_tv/playlist.m3u8?edge-cache-token=Expires=1790194611~Starts=1790191011~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=CG2HkFdWAOtyH5ZR00ImZQXqbQXj0FsYWKQpYO1nFydfuNARwYWA0cUE4lFVGy0NrNuKq2T7NoAYsP4Ip_w9AA&nocache=1790191011411
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?nocache=1790177639112
+https://prod-linear-media.toffeelive.com/cdn/live/bangla_tv/playlist.m3u8?edge-cache-token=Expires=1790194623~Starts=1790191023~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=Fj_fW2gAgVdn78fO0PXwSCRHN3uqyCd1eZGzhKd6x7wEyOyW8NwefU2GSr2lg9f1WywI-bHXxFBrr622U726CQ&nocache=1790191023771
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?nocache=1790177645152
+https://prod-linear-media.toffeelive.com/cdn/live/independent_tv/playlist.m3u8?edge-cache-token=Expires=1790194636~Starts=1790191036~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=bqd6JELgj_V85VYufU7oIBBXM9e_AUVEuiFEUEaSq_KF_UrC8YT05TlLEzARQsfAMe6o4uMwXCfLGxsVpIMFAw&nocache=1790191036376
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?nocache=1790177651250
+https://prod-linear-media.toffeelive.com/cdn/live/channel_s_tv/playlist.m3u8?edge-cache-token=Expires=1790194647~Starts=1790191047~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=6FRoYGdIBR3VSisUdNuULvSXAVWmAkw--nPBuKsjVzwFi4zmCx-o0oyToE0iRSD8gFs1GIgBAfwy3EmDzIQNCQ&nocache=1790191047587
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?nocache=1790177676837
+https://prod-linear-media.toffeelive.com/cdn/live/fifa_world_cup/playlist.m3u8?edge-cache-token=Expires=1790194678~Starts=1790191078~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=MsUOV5OLSBaVe_IzUm2sDXLbqjQVL2JaSs1_EhSOOUUrhc7Ndzm4uL6oIjHzpmxZaValiihMoadxAOKvNOCqDA&nocache=1790191078605
 
 #EXTINF:-1 group-title="IPTV",Channel
-https://bldcmprod-cdn.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?nocache=1790177701897
+https://prod-linear-media.toffeelive.com/cdn/live/ten_cricket/playlist.m3u8?edge-cache-token=Expires=1790194709~Starts=1790191109~URLPrefix=aHR0cHM6Ly9wcm9kLWxpbmVhci1tZWRpYS50b2ZmZWVsaXZlLmNvbQ~Data=eyJzdWJzY3JpYmVyX2lkIjoiMmI5MDU2MTUtM2QwMS00ZDk2LTkwNGQtODg5NmI0YjM2MzMwIn0~Signature=MpuobW3z463mS4r2OSunZ4_4ABJnJgsktRSgu6mO6cDfVG29bRxLBoIl1E-6uIQLLBN9zxLcV18yYIJeJrQJAw&nocache=1790191109684
